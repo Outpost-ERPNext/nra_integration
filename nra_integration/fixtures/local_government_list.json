@@ -1,0 +1,6914 @@
+[
+ {
+  "code": "NG-IM-NWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.381070",
+  "name": "Nwangele",
+  "name1": "Nwangele",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KN-FAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.582259",
+  "name": "Fagge",
+  "name1": "Fagge",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KN-ROG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.624818",
+  "name": "Rogo",
+  "name1": "Rogo",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KO-IDA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.634723",
+  "name": "Idah",
+  "name1": "Idah",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KO-KOG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.663255",
+  "name": "Kogi",
+  "name1": "Kogi",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KO-LOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.671594",
+  "name": "Lokoja",
+  "name1": "Lokoja",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KW-ISI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.680018",
+  "name": "Isin",
+  "name1": "Isin",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-KW-PAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.690430",
+  "name": "Pategi",
+  "name1": "Pategi",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-CR-ABI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.696997",
+  "name": "Abi",
+  "name1": "Abi",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-KD-LER",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.703701",
+  "name": "Lere",
+  "name1": "Lere",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KT-MAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.712098",
+  "name": "Malumfashi",
+  "name1": "Malumfashi",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OS-IFE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.730373",
+  "name": "Ifedayo",
+  "name1": "Ifedayo",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-AN-OSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.740584",
+  "name": "Onitsha South",
+  "name1": "Onitsha South",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-KT-DUT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.749104",
+  "name": "Dutsi",
+  "name1": "Dutsi",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-YO-MAC",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.757513",
+  "name": "Machina",
+  "name1": "Machina",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-AK-EE1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.763573",
+  "name": "Etim Ekpo",
+  "name1": "Etim Ekpo",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AN-NJI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.770102",
+  "name": "Njikoka",
+  "name1": "Njikoka",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BE-KWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.778067",
+  "name": "Kwande",
+  "name1": "Kwande",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-EN-UDI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.783693",
+  "name": "Udi",
+  "name1": "Udi",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-IM-ORS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.788557",
+  "name": "Orsu",
+  "name1": "Orsu",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-AUY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.793527",
+  "name": "Auyo",
+  "name1": "Auyo",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KN-DOG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.798612",
+  "name": "Doguwa",
+  "name1": "Doguwa",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-LA-IBE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.804269",
+  "name": "Ibeju/Lekki",
+  "name1": "Ibeju/Lekki",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-AB-OHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.810608",
+  "name": "Ohafia",
+  "name1": "Ohafia",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AD-GAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.817160",
+  "name": "Ganaye",
+  "name1": "Ganaye",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-AD-YNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.826569",
+  "name": "Yola North",
+  "name1": "Yola North",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BY-KOL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.833979",
+  "name": "Kolokuma/Opokuma",
+  "name1": "Kolokuma/Opokuma",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-BO-SHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.842710",
+  "name": "Shani",
+  "name1": "Shani",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-GO-KAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.851502",
+  "name": "Kaltungo",
+  "name1": "Kaltungo",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-IM-IMB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.858399",
+  "name": "Isiala Mbano",
+  "name1": "Isiala Mbano",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-NA-KEF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.865026",
+  "name": "Keffi",
+  "name1": "Keffi",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-BE-GBO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.871787",
+  "name": "Gboko",
+  "name1": "Gboko",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-EK-OYE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.879601",
+  "name": "Oye",
+  "name1": "Oye",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-JI-RIN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.887694",
+  "name": "Ringim",
+  "name1": "Ringim",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KT-FAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.894391",
+  "name": "Faskari",
+  "name1": "Faskari",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KT-SAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.901345",
+  "name": "Sabuwa",
+  "name1": "Sabuwa",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OY-OSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.909008",
+  "name": "Ogbmosho South",
+  "name1": "Ogbmosho South",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-OY-SEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.918608",
+  "name": "Saki East",
+  "name1": "Saki East",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-RI-ETC",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.926596",
+  "name": "Etche",
+  "name1": "Etche",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-BA-ITA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.934032",
+  "name": "Itas/Gadau",
+  "name1": "Itas/Gadau",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BO-MAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.943322",
+  "name": "Mafa",
+  "name1": "Mafa",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-ED-ECE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.951360",
+  "name": "Esan Central",
+  "name1": "Esan Central",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-KN-TAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.960955",
+  "name": "Takali",
+  "name1": "Takali",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KO-AJA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.969514",
+  "name": "Ajaokuta",
+  "name1": "Ajaokuta",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-OS-OLO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.977980",
+  "name": "Olorunda",
+  "name1": "Olorunda",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-OY-AT1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.986739",
+  "name": "Atigbo",
+  "name1": "Atigbo",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-TA-KUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:16.998940",
+  "name": "Kurmi",
+  "name1": "Kurmi",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-AK-NIB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.012930",
+  "name": "Nsit Ibom",
+  "name1": "Nsit Ibom",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-BO-MON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.022626",
+  "name": "Monguno",
+  "name1": "Monguno",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-DE-OSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.030935",
+  "name": "Oshimili South",
+  "name1": "Oshimili South",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-KN-KIB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.039332",
+  "name": "Kibiya",
+  "name1": "Kibiya",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KE-NGA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.049329",
+  "name": "Ngaski",
+  "name1": "Ngaski",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-ON-OEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.060235",
+  "name": "Ondo East",
+  "name1": "Ondo East",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-OY-ISE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.069004",
+  "name": "Ibadan South East",
+  "name1": "Ibadan South East",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AB-USO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.078225",
+  "name": "Umuahia South",
+  "name1": "Umuahia South",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-BE-OGB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.088478",
+  "name": "Ogbadibo",
+  "name1": "Ogbadibo",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-EN-AWG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.098686",
+  "name": "Awgu",
+  "name1": "Awgu",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-EN-IUZ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.108662",
+  "name": "Isi-Uzo",
+  "name1": "Isi-Uzo",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-JI-BAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.117658",
+  "name": "Babura",
+  "name1": "Babura",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-OG-INO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.127880",
+  "name": "Ijebu North",
+  "name1": "Ijebu North",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OS-AIY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.138337",
+  "name": "Aiyedade",
+  "name1": "Aiyedade",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-AB-ASO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.147709",
+  "name": "Aba South",
+  "name1": "Aba South",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-BE-LOG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.157763",
+  "name": "Logo",
+  "name1": "Logo",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-BE-OBI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.166636",
+  "name": "Obi",
+  "name1": "Obi",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-CR-CMU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.174792",
+  "name": "Calabar-Municipal",
+  "name1": "Calabar-Municipal",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-EK-ESW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.183602",
+  "name": "Ekiti South West",
+  "name1": "Ekiti South West",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-KN-MAD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.193229",
+  "name": "Madobi",
+  "name1": "Madobi",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KN-TSA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.200471",
+  "name": "Tsanyawa",
+  "name1": "Tsanyawa",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-OG-IAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.206927",
+  "name": "Imeko-Afon",
+  "name1": "Imeko-Afon",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-AD-LAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.216829",
+  "name": "Lamurde",
+  "name1": "Lamurde",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-AK-EKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.225264",
+  "name": "Eket",
+  "name1": "Eket",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-KO-ADA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.234205",
+  "name": "Adavi",
+  "name1": "Adavi",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-NI-AGW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.242122",
+  "name": "Agwara",
+  "name1": "Agwara",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-OS-ESO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.251113",
+  "name": "Ede South",
+  "name1": "Ede South",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-OY-OAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.260119",
+  "name": "Ona-Ara",
+  "name1": "Ona-Ara",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-TA-LAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.266972",
+  "name": "Lau",
+  "name1": "Lau",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-AK-IEK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.273196",
+  "name": "Ikot Ekpene",
+  "name1": "Ikot Ekpene",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AN-NSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.281020",
+  "name": "Nnewi South",
+  "name1": "Nnewi South",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-CR-ETU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.292960",
+  "name": "Etung",
+  "name1": "Etung",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-IM-OHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.302523",
+  "name": "Ohaji/Egbema",
+  "name1": "Ohaji/Egbema",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KE-ZUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.312849",
+  "name": "Zuru",
+  "name1": "Zuru",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-NI-KON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.323435",
+  "name": "Kontagora",
+  "name1": "Kontagora",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-OG-IEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.332491",
+  "name": "Ijebu East",
+  "name1": "Ijebu East",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-RI-OKR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.340659",
+  "name": "Okrika",
+  "name1": "Okrika",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-AD-DEM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.348386",
+  "name": "Demsa",
+  "name1": "Demsa",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BY-OGB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.358234",
+  "name": "Ogbia",
+  "name1": "Ogbia",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-CR-AKA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.369780",
+  "name": "Akamkpa",
+  "name1": "Akamkpa",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-EN-UDE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.383678",
+  "name": "Udenu",
+  "name1": "Udenu",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-KN-KMU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.395439",
+  "name": "Kano Municipal",
+  "name1": "Kano Municipal",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-NI-GUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.467597",
+  "name": "Gurara",
+  "name1": "Gurara",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-BO-BAY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.478091",
+  "name": "Bayo",
+  "name1": "Bayo",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-BO-MAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.488100",
+  "name": "Magumeri",
+  "name1": "Magumeri",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-EN-EZE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.497404",
+  "name": "Ezeagu",
+  "name1": "Ezeagu",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-EN-UUW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.506136",
+  "name": "Uzo-Uwani",
+  "name1": "Uzo-Uwani",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-JI-JAH",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.516027",
+  "name": "Jahun",
+  "name1": "Jahun",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KN-AJI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.526323",
+  "name": "Ajingi",
+  "name1": "Ajingi",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-NI-BOR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.535489",
+  "name": "Borgu",
+  "name1": "Borgu",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-OG-ESO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.545050",
+  "name": "Egbado South",
+  "name1": "Egbado South",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-BE-OJU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.554475",
+  "name": "Oju",
+  "name1": "Oju",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-EK-IRE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.564789",
+  "name": "Irepodun/Ifelodun",
+  "name1": "Irepodun/Ifelodun",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-KD-IKA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.574531",
+  "name": "Ikara",
+  "name1": "Ikara",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KN-MIN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.583969",
+  "name": "Minjibir",
+  "name1": "Minjibir",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KT-KAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.593710",
+  "name": "Kafur",
+  "name1": "Kafur",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-NA-NEG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.605582",
+  "name": "Nasarawa-Eggon",
+  "name1": "Nasarawa-Eggon",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-ON-ODI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.614503",
+  "name": "Odigbo",
+  "name1": "Odigbo",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-OS-ICE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.623404",
+  "name": "Ife Central",
+  "name1": "Ife Central",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-BA-NIN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.631364",
+  "name": "Ningi",
+  "name1": "Ningi",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-DE-UVW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.641170",
+  "name": "Uvwie",
+  "name1": "Uvwie",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-FC-KL1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.650901",
+  "name": "Kwali LGA",
+  "name1": "Kwali LGA",
+  "state_code": "NG-FC"
+ },
+ {
+  "code": "NG-IM-EZI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.659788",
+  "name": "Ezinihitte",
+  "name1": "Ezinihitte",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KT-DMU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.667922",
+  "name": "Dan Musa",
+  "name1": "Dan Musa",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OS-IEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.675933",
+  "name": "Ife East",
+  "name1": "Ife East",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-RI-ABU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.684157",
+  "name": "Abua/Odual",
+  "name1": "Abua/Odual",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-YO-BUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.693387",
+  "name": "Bursari",
+  "name1": "Bursari",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-BY-BRA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.701578",
+  "name": "Brass",
+  "name1": "Brass",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-ED-EWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.710431",
+  "name": "Esan West",
+  "name1": "Esan West",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-FC-GLG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.718887",
+  "name": "Gwagwalada LGA",
+  "name1": "Gwagwalada LGA",
+  "state_code": "NG-FC"
+ },
+ {
+  "code": "NG-IM-OMU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.726042",
+  "name": "Owerri-Municipal",
+  "name1": "Owerri-Municipal",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KE-BUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.734839",
+  "name": "Bunza",
+  "name1": "Bunza",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-NA-WAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.745139",
+  "name": "Wamba",
+  "name1": "Wamba",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-NI-LAP",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.753276",
+  "name": "Lapai",
+  "name1": "Lapai",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-OY-IDO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.761503",
+  "name": "Ido",
+  "name1": "Ido",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AK-IAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.770176",
+  "name": "Ibesikpo Asutan",
+  "name1": "Ibesikpo Asutan",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-BA-DAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.779761",
+  "name": "Damban",
+  "name1": "Damban",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-EK-AIY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.788134",
+  "name": "Aiyekire",
+  "name1": "Aiyekire",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-KD-JAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.796024",
+  "name": "Jaba",
+  "name1": "Jaba",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KN-BEB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.804554",
+  "name": "Bebeji",
+  "name1": "Bebeji",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-NI-SUL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.814639",
+  "name": "Suleja",
+  "name1": "Suleja",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-OG-EWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.826999",
+  "name": "Ewekoro",
+  "name1": "Ewekoro",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OY-LAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.837344",
+  "name": "Lagelu",
+  "name1": "Lagelu",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AB-UNE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.849308",
+  "name": "Umu-Neochi",
+  "name1": "Umu-Neochi",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AK-OAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.869180",
+  "name": "Oruk Anam",
+  "name1": "Oruk Anam",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-IM-NKW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.881229",
+  "name": "Nkwerre",
+  "name1": "Nkwerre",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-RI-TAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.891238",
+  "name": "Tai",
+  "name1": "Tai",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-SO-GAW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.901110",
+  "name": "Gawabawa",
+  "name1": "Gawabawa",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-ZA-BUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.915939",
+  "name": "Bungudu",
+  "name1": "Bungudu",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-AK-MBO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.925347",
+  "name": "Mbo",
+  "name1": "Mbo",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AN-ONO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.935113",
+  "name": "Onitsha North",
+  "name1": "Onitsha North",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-EB-ANO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.944583",
+  "name": "Afikpo North",
+  "name1": "Afikpo North",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-ED-OSW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.954777",
+  "name": "Ovia South West",
+  "name1": "Ovia South West",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-GO-GOM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.963265",
+  "name": "Gombe",
+  "name1": "Gombe",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-JI-MIG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.971423",
+  "name": "Miga",
+  "name1": "Miga",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-OG-IKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.981270",
+  "name": "Ikenne",
+  "name1": "Ikenne",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OY-KAJ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:17.991147",
+  "name": "Kajola",
+  "name1": "Kajola",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AN-AYA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.001305",
+  "name": "Ayamelum",
+  "name1": "Ayamelum",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BY-SAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.010310",
+  "name": "Sagbama",
+  "name1": "Sagbama",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-EK-ISE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.019171",
+  "name": "Ise/Orun",
+  "name1": "Ise/Orun",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-GO-KWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.028230",
+  "name": "Kwami",
+  "name1": "Kwami",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-TA-BAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.038927",
+  "name": "Bali",
+  "name1": "Bali",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-TA-JAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.050420",
+  "name": "Jalingo",
+  "name1": "Jalingo",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-YO-BAD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.059415",
+  "name": "Bade",
+  "name1": "Bade",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-YO-GUJ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.069763",
+  "name": "Gujba",
+  "name1": "Gujba",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-AB-BEN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.078632",
+  "name": "Bende",
+  "name1": "Bende",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-GO-FUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.088688",
+  "name": "Funakaye",
+  "name1": "Funakaye",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-KN-GEZ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.097609",
+  "name": "Gezawa",
+  "name1": "Gezawa",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KN-RGA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.122648",
+  "name": "Rimin Gado",
+  "name1": "Rimin Gado",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KE-KAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.131192",
+  "name": "Kalgo",
+  "name1": "Kalgo",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-BE-OHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.139795",
+  "name": "Ohimini",
+  "name1": "Ohimini",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-BO-MAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.147527",
+  "name": "Marte",
+  "name1": "Marte",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-KD-SOB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.155060",
+  "name": "Soba",
+  "name1": "Soba",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KN-WAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.161648",
+  "name": "Warawa",
+  "name1": "Warawa",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-RI-PHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.167664",
+  "name": "Port-Harcourt",
+  "name1": "Port-Harcourt",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-SO-GAD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.174380",
+  "name": "Gada",
+  "name1": "Gada",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-SO-GOR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.181459",
+  "name": "Goronyo",
+  "name1": "Goronyo",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-SO-YAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.190507",
+  "name": "Yabo",
+  "name1": "Yabo",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-AN-IHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.197150",
+  "name": "Ihiala",
+  "name1": "Ihiala",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-EB-IVO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.205815",
+  "name": "Ivo",
+  "name1": "Ivo",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-IM-ISO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.214080",
+  "name": "Ideato South",
+  "name1": "Ideato South",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-YAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.220674",
+  "name": "Yankwashi",
+  "name1": "Yankwashi",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KE-KOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.227096",
+  "name": "Koko/Besse",
+  "name1": "Koko/Besse",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-KE-YAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.233499",
+  "name": "Yauri",
+  "name1": "Yauri",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-PL-BLA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.240556",
+  "name": "Barikin Ladi",
+  "name1": "Barikin Ladi",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-YO-YUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.246358",
+  "name": "Yunusari",
+  "name1": "Yunusari",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-CR-ODU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.252676",
+  "name": "Odukpani",
+  "name1": "Odukpani",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-IM-AMB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.260721",
+  "name": "Aboh-Mbaise",
+  "name1": "Aboh-Mbaise",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KD-IGA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.267651",
+  "name": "Igabi",
+  "name1": "Igabi",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-SO-SBI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.277543",
+  "name": "Sabon birni",
+  "name1": "Sabon birni",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-SO-TAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.284354",
+  "name": "Tambuwal",
+  "name1": "Tambuwal",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-AD-JAD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.292260",
+  "name": "Jada",
+  "name1": "Jada",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-KD-ZKA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.299827",
+  "name": "Zango-Kataf",
+  "name1": "Zango-Kataf",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KO-YWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.306505",
+  "name": "Yagba West",
+  "name1": "Yagba West",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-LA-OJO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.314292",
+  "name": "Ojo",
+  "name1": "Ojo",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-NA-AWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.321257",
+  "name": "Awe",
+  "name1": "Awe",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-OS-AEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.327234",
+  "name": "Atakumosa East",
+  "name1": "Atakumosa East",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-SO-SSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.333160",
+  "name": "Sokoto South",
+  "name1": "Sokoto South",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-BA-DAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.338693",
+  "name": "Darazo",
+  "name1": "Darazo",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-KN-MAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.345267",
+  "name": "Makoda",
+  "name1": "Makoda",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-OG-RNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.352184",
+  "name": "Remo North",
+  "name1": "Remo North",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-PL-LNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.358450",
+  "name": "Langtang North",
+  "name1": "Langtang North",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-BO-DAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.364619",
+  "name": "Damboa",
+  "name1": "Damboa",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-KD-KSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.371922",
+  "name": "kaduna South",
+  "name1": "kaduna South",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-ON-IDA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.378653",
+  "name": "Idanre",
+  "name1": "Idanre",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-OY-AFI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.385587",
+  "name": "Afijio",
+  "name1": "Afijio",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AK-ABA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.392075",
+  "name": "Abak",
+  "name1": "Abak",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AN-ASO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.398222",
+  "name": "Awka South",
+  "name1": "Awka South",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-KW-OFF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.403971",
+  "name": "Offa",
+  "name1": "Offa",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-OS-BOR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.409491",
+  "name": "Boripe",
+  "name1": "Boripe",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-AK-OAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.415394",
+  "name": "Obot Akara",
+  "name1": "Obot Akara",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-ED-EC1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.421077",
+  "name": "Etsako Central",
+  "name1": "Etsako Central",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-EK-ILE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.426327",
+  "name": "Ilemeji",
+  "name1": "Ilemeji",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-LA-SHO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.432709",
+  "name": "Shomolu",
+  "name1": "Shomolu",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-SO-ILL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.438579",
+  "name": "Illela",
+  "name1": "Illela",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-SO-SHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.444419",
+  "name": "Shagari",
+  "name1": "Shagari",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-YO-GUL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.452961",
+  "name": "Gulani",
+  "name1": "Gulani",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-AK-OKO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.460303",
+  "name": "Okobo",
+  "name1": "Okobo",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-CR-BEK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.466514",
+  "name": "Bekwara",
+  "name1": "Bekwara",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-JI-BUJ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.472933",
+  "name": "Buji",
+  "name1": "Buji",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KT-DAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.479672",
+  "name": "Daura",
+  "name1": "Daura",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-NA-NAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.486895",
+  "name": "Nasarawa",
+  "name1": "Nasarawa",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-OY-SWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.498505",
+  "name": "Saki West",
+  "name1": "Saki West",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-RI-OYI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.505305",
+  "name": "Oyigbo",
+  "name1": "Oyigbo",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-KE-GWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.511437",
+  "name": "Gwandu",
+  "name1": "Gwandu",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-KE-WAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.517713",
+  "name": "Wasagu/Danko",
+  "name1": "Wasagu/Danko",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-LA-AGE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.524222",
+  "name": "Agege",
+  "name1": "Agege",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-ON-ANE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.529683",
+  "name": "Akoko North East",
+  "name1": "Akoko North East",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-RI-AEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.534498",
+  "name": "Ahoada East",
+  "name1": "Ahoada East",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-RI-KHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.539606",
+  "name": "Khana",
+  "name1": "Khana",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-BO-KUK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.546054",
+  "name": "Kukawa",
+  "name1": "Kukawa",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-KN-KUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.552085",
+  "name": "Kura",
+  "name1": "Kura",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-CR-OBU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.561777",
+  "name": "Obubra",
+  "name1": "Obubra",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-LA-AIF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.571982",
+  "name": "Ajeromi-Ifelodun",
+  "name1": "Ajeromi-Ifelodun",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-OG-ODE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.581628",
+  "name": "Odeda",
+  "name1": "Odeda",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OY-OLO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.591145",
+  "name": "Olorunsogo",
+  "name1": "Olorunsogo",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-GO-DUK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.599487",
+  "name": "Dukku",
+  "name1": "Dukku",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-KO-IBA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.607159",
+  "name": "Ibaji",
+  "name1": "Ibaji",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KO-OLA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.614359",
+  "name": "Olamabolo",
+  "name1": "Olamabolo",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KW-IFE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.621892",
+  "name": "Ifelodun",
+  "name1": "Ifelodun",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-NA-DOM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.631436",
+  "name": "Doma",
+  "name1": "Doma",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-NI-WUS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.639902",
+  "name": "Wushishi",
+  "name1": "Wushishi",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-AD-MBE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.647179",
+  "name": "Mayo-Belwa",
+  "name1": "Mayo-Belwa",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BO-JER",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.656689",
+  "name": "Jere",
+  "name1": "Jere",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-DE-INE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.665398",
+  "name": "Ika North East",
+  "name1": "Ika North East",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-EN-ESO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.674327",
+  "name": "Enugu South",
+  "name1": "Enugu South",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-JI-GAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.682927",
+  "name": "Garki",
+  "name1": "Garki",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KN-BIC",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.692645",
+  "name": "Bichi",
+  "name1": "Bichi",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KO-OMA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.701654",
+  "name": "Omala",
+  "name1": "Omala",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-NI-PAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.709508",
+  "name": "Pailoro",
+  "name1": "Pailoro",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-KT-ING",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.718653",
+  "name": "Ingawa",
+  "name1": "Ingawa",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-RI-OBI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.726950",
+  "name": "Obia/Akpor",
+  "name1": "Obia/Akpor",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-SO-KWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.735000",
+  "name": "Kware",
+  "name1": "Kware",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-BA-GAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.742725",
+  "name": "Ganjuwa",
+  "name1": "Ganjuwa",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BE-GUM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.750168",
+  "name": "Guma",
+  "name1": "Guma",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-DE-ANO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.757785",
+  "name": "Aniocha North",
+  "name1": "Aniocha North",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-EB-ABA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.767569",
+  "name": "Abakaliki",
+  "name1": "Abakaliki",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-KN-DTO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.776327",
+  "name": "Dawakin Tofa",
+  "name1": "Dawakin Tofa",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-OS-EJI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.784719",
+  "name": "Ejigbo",
+  "name1": "Ejigbo",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-OY-IC1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.794424",
+  "name": "Ibarapa Central",
+  "name1": "Ibarapa Central",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-RI-BON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.802637",
+  "name": "Bonny",
+  "name1": "Bonny",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-AN-NNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.809827",
+  "name": "Nnewi North",
+  "name1": "Nnewi North",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BE-BUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.819289",
+  "name": "Buruku",
+  "name1": "Buruku",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-BO-MOB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.827837",
+  "name": "Mobbar",
+  "name1": "Mobbar",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-ED-ESE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.835986",
+  "name": "Esan South East",
+  "name1": "Esan South East",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-KN-KIR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.843880",
+  "name": "Kiru",
+  "name1": "Kiru",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-ON-ASA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.851683",
+  "name": "Akoko South Akure East",
+  "name1": "Akoko South Akure East",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-TA-ZIN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.858852",
+  "name": "Zing",
+  "name1": "Zing",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-YO-DAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.866069",
+  "name": "Damaturu",
+  "name1": "Damaturu",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-AB-ONG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.873143",
+  "name": "Osisioma Ngwa",
+  "name1": "Osisioma Ngwa",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-OS-OOT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.881536",
+  "name": "Odo-Otin",
+  "name1": "Odo-Otin",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-TA-CAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.889155",
+  "name": "Cassol",
+  "name1": "Cassol",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-AK-NAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.898177",
+  "name": "Nsit Atai",
+  "name1": "Nsit Atai",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-JI-KKA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.905481",
+  "name": "Kiri Kasamma",
+  "name1": "Kiri Kasamma",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-OS-AWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.912944",
+  "name": "Atakumosa West",
+  "name1": "Atakumosa West",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-BO-CHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.919879",
+  "name": "Chibok",
+  "name1": "Chibok",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-DE-IS1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.927306",
+  "name": "Isoko South",
+  "name1": "Isoko South",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-KW-EDU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.937088",
+  "name": "Edu",
+  "name1": "Edu",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-OG-ASO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.945389",
+  "name": "Abeokuta South",
+  "name1": "Abeokuta South",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OY-EGB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.954850",
+  "name": "Egbeda",
+  "name1": "Egbeda",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-SO-KEB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.967447",
+  "name": "kebbe",
+  "name1": "kebbe",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-JI-KAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.977042",
+  "name": "Kaugama",
+  "name1": "Kaugama",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KN-KAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.987001",
+  "name": "Kabo",
+  "name1": "Kabo",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-SO-DSH",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:18.996770",
+  "name": "Dange-shnsi",
+  "name1": "Dange-shnsi",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-BA-GLG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.006828",
+  "name": "Gamawa LGA",
+  "name1": "Gamawa LGA",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-DE-NWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.017173",
+  "name": "Ndokwa West",
+  "name1": "Ndokwa West",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-DE-PAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.025634",
+  "name": "Patani",
+  "name1": "Patani",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-EK-EEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.033499",
+  "name": "Ekiti East",
+  "name1": "Ekiti East",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-KD-MAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.041057",
+  "name": "Markafi",
+  "name1": "Markafi",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-AK-ONN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.049234",
+  "name": "Onna",
+  "name1": "Onna",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-FC-AML",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.056187",
+  "name": "Abuja Municipa LGA",
+  "name1": "Abuja Municipa LGA",
+  "state_code": "NG-FC"
+ },
+ {
+  "code": "NG-IM-IKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.062631",
+  "name": "Ikeduru",
+  "name1": "Ikeduru",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-KHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.070828",
+  "name": "Kafin Hausa",
+  "name1": "Kafin Hausa",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KE-BAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.078092",
+  "name": "Bagudo",
+  "name1": "Bagudo",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-KW-OYU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.088205",
+  "name": "Oyun",
+  "name1": "Oyun",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-NA-TOT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.094544",
+  "name": "Toto",
+  "name1": "Toto",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-ON-IOO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.100275",
+  "name": "Ile-Oluji-Okeigbo",
+  "name1": "Ile-Oluji-Okeigbo",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-AN-AWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.107324",
+  "name": "Anambra West",
+  "name1": "Anambra West",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-DE-WSW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.117329",
+  "name": "Warri South West",
+  "name1": "Warri South West",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-KN-DKU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.125603",
+  "name": "Dawakin Kudu",
+  "name1": "Dawakin Kudu",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-AD-YSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.133243",
+  "name": "Yola South",
+  "name1": "Yola South",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BA-ZAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.141091",
+  "name": "Zaki",
+  "name1": "Zaki",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BO-KON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.148245",
+  "name": "Konduga",
+  "name1": "Konduga",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-ED-EW1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.157149",
+  "name": "Etsako West",
+  "name1": "Etsako West",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-OS-ENO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.163414",
+  "name": "Ede North",
+  "name1": "Ede North",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-TA-DON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.169268",
+  "name": "Donga",
+  "name1": "Donga",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-ZA-SHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.175778",
+  "name": "Shinkafi",
+  "name1": "Shinkafi",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-AD-NUM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.182255",
+  "name": "Numan",
+  "name1": "Numan",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BY-EKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.188062",
+  "name": "Ekeremor",
+  "name1": "Ekeremor",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-BO-GUB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.205623",
+  "name": "Gubio",
+  "name1": "Gubio",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-CR-AKP",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.212368",
+  "name": "Akpabuyo",
+  "name1": "Akpabuyo",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-CR-BIA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.217928",
+  "name": "Biase",
+  "name1": "Biase",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-KT-MAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.223287",
+  "name": "Mashi",
+  "name1": "Mashi",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KO-OKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.232395",
+  "name": "Okehi",
+  "name1": "Okehi",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-OG-ENO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.239444",
+  "name": "Egbado North",
+  "name1": "Egbado North",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-BA-KAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.249754",
+  "name": "Katagum",
+  "name1": "Katagum",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BE-GWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.260598",
+  "name": "Gwer West",
+  "name1": "Gwer West",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-KE-ALE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.270583",
+  "name": "Aleiro",
+  "name1": "Aleiro",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-OY-OWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.279059",
+  "name": "Oyo West",
+  "name1": "Oyo West",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-PL-PAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.286709",
+  "name": "Pankshin",
+  "name1": "Pankshin",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-TA-YOR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.294422",
+  "name": "Yorro",
+  "name1": "Yorro",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-BE-KAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.302259",
+  "name": "Katsina-Ala",
+  "name1": "Katsina-Ala",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-BE-OTU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.310484",
+  "name": "Oturkpo",
+  "name1": "Oturkpo",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-EB-ESO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.317757",
+  "name": "Ezza South",
+  "name1": "Ezza South",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-EN-IEN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.328130",
+  "name": "Igbo-Eze North",
+  "name1": "Igbo-Eze North",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-EN-NEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.336032",
+  "name": "Nkanu East",
+  "name1": "Nkanu East",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-JI-GWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.344500",
+  "name": "Gwaram",
+  "name1": "Gwaram",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KW-MOR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.351658",
+  "name": "Moro",
+  "name1": "Moro",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-OS-OSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.359287",
+  "name": "Osogbo",
+  "name1": "Osogbo",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-AB-INS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.367908",
+  "name": "Isiala-Ngwa South",
+  "name1": "Isiala-Ngwa South",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AB-UNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.376010",
+  "name": "Umuahia North",
+  "name1": "Umuahia North",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-KW-ASA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.390148",
+  "name": "Asa",
+  "name1": "Asa",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-NI-RIJ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.398174",
+  "name": "Rijau",
+  "name1": "Rijau",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-TA-IBI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.407074",
+  "name": "Ibi",
+  "name1": "Ibi",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-ZA-ANK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.417285",
+  "name": "Anka",
+  "name1": "Anka",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-BA-GIA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.429040",
+  "name": "Giade",
+  "name1": "Giade",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-KN-GAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.439970",
+  "name": "Gabasawa",
+  "name1": "Gabasawa",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KT-BA1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.453233",
+  "name": "Batsari",
+  "name1": "Batsari",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OG-ANO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.461940",
+  "name": "Abeokuta North",
+  "name1": "Abeokuta North",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OY-ORI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.470862",
+  "name": "OriIre",
+  "name1": "OriIre",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-PL-KAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.479387",
+  "name": "Kanam",
+  "name1": "Kanam",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-AK-ETI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.487800",
+  "name": "Etinan",
+  "name1": "Etinan",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AN-ON1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.498377",
+  "name": "Orumba North",
+  "name1": "Orumba North",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-IM-INO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.507116",
+  "name": "Ideato North",
+  "name1": "Ideato North",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-SO-GUD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.515927",
+  "name": "Gudu",
+  "name1": "Gudu",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-AD-MIC",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.525461",
+  "name": "Michika",
+  "name1": "Michika",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-DE-INO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.532772",
+  "name": "Isoko North",
+  "name1": "Isoko North",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-DE-UKW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.542053",
+  "name": "Ukwuani",
+  "name1": "Ukwuani",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-KT-FUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.550506",
+  "name": "Funtua",
+  "name1": "Funtua",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OG-IOD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.558357",
+  "name": "Ijebu Ode",
+  "name1": "Ijebu Ode",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-RI-OGU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.565592",
+  "name": "Ogu/Bolo",
+  "name1": "Ogu/Bolo",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-EK-MOB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.573791",
+  "name": "Moba",
+  "name1": "Moba",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-KT-MAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.580154",
+  "name": "Mani",
+  "name1": "Mani",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KE-BKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.587614",
+  "name": "Birnin Kebbi",
+  "name1": "Birnin Kebbi",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-NA-KOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.595584",
+  "name": "Kokona",
+  "name1": "Kokona",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-PL-JNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.601166",
+  "name": "Jos North",
+  "name1": "Jos North",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-RI-AND",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.606607",
+  "name": "Andoni",
+  "name1": "Andoni",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-YO-FIK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.611937",
+  "name": "Fika",
+  "name1": "Fika",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-ED-ORE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.617773",
+  "name": "Oredo",
+  "name1": "Oredo",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-EK-IKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.623153",
+  "name": "Ikere",
+  "name1": "Ikere",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-IM-NJA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.628082",
+  "name": "Njaba",
+  "name1": "Njaba",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KN-KUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.632606",
+  "name": "Kunchi",
+  "name1": "Kunchi",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KT-BAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.637033",
+  "name": "Baure",
+  "name1": "Baure",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KT-ZAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.642655",
+  "name": "Zango",
+  "name1": "Zango",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-PL-MIK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.648243",
+  "name": "Mikang",
+  "name1": "Mikang",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-ZA-GUM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.654028",
+  "name": "Gummi",
+  "name1": "Gummi",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-BO-NG1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.659688",
+  "name": "Nganzai",
+  "name1": "Nganzai",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-EN-IES",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.665176",
+  "name": "Igbo-Eze South",
+  "name1": "Igbo-Eze South",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-JI-HAD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.671400",
+  "name": "Hadejia",
+  "name1": "Hadejia",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KD-GIW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.679166",
+  "name": "Giwa",
+  "name1": "Giwa",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-LA-IKO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.685448",
+  "name": "Ikorodu",
+  "name1": "Ikorodu",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-LA-LIS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.692013",
+  "name": "Lagos Island",
+  "name1": "Lagos Island",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-OG-INE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.698850",
+  "name": "Ijebu North East",
+  "name1": "Ijebu North East",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-AD-MAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.706087",
+  "name": "Maiha",
+  "name1": "Maiha",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-ED-ONE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.713579",
+  "name": "Ovia North East",
+  "name1": "Ovia North East",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-FC-ALG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.720549",
+  "name": "Abaji LGA",
+  "name1": "Abaji LGA",
+  "state_code": "NG-FC"
+ },
+ {
+  "code": "NG-KN-DAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.728660",
+  "name": "Dambatta",
+  "name1": "Dambatta",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-NI-RAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.735021",
+  "name": "Rafi",
+  "name1": "Rafi",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-TA-SAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.741766",
+  "name": "Sardauna",
+  "name1": "Sardauna",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-KT-JIB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.748410",
+  "name": "Jibia",
+  "name1": "Jibia",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KO-OK1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.755674",
+  "name": "Okene",
+  "name1": "Okene",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-OY-ATI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.763285",
+  "name": "Atiba",
+  "name1": "Atiba",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-OY-INW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.769814",
+  "name": "Ibadan North West",
+  "name1": "Ibadan North West",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-BO-GUZ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.776978",
+  "name": "Guzamala",
+  "name1": "Guzamala",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-ON-OWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.783928",
+  "name": "Ondo West",
+  "name1": "Ondo West",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-ZA-BMA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.791267",
+  "name": "Birnin Magaji",
+  "name1": "Birnin Magaji",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-IM-ORL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.797172",
+  "name": "Orlu",
+  "name1": "Orlu",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-TAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.803777",
+  "name": "Taura",
+  "name1": "Taura",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KO-BAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.810134",
+  "name": "Bassa",
+  "name1": "Bassa",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-LA-SUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.816907",
+  "name": "Surulere",
+  "name1": "Surulere",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-NA-KEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.836692",
+  "name": "Keana",
+  "name1": "Keana",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-NI-MAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.847053",
+  "name": "Mariga",
+  "name1": "Mariga",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-PL-JSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.861517",
+  "name": "Jos South",
+  "name1": "Jos South",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-AK-UKA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.869252",
+  "name": "Ukanafun",
+  "name1": "Ukanafun",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-KD-CHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.879294",
+  "name": "Chikun",
+  "name1": "Chikun",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KE-JEG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.888681",
+  "name": "Jega",
+  "name1": "Jega",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-RI-OMU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.898647",
+  "name": "Omumma",
+  "name1": "Omumma",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-BE-TAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.905990",
+  "name": "Tarka",
+  "name1": "Tarka",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-EB-IZZ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.913684",
+  "name": "Izzi",
+  "name1": "Izzi",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-EN-EEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.921143",
+  "name": "Enugu East",
+  "name1": "Enugu East",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-KD-SGA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.928036",
+  "name": "Sabon-Gari",
+  "name1": "Sabon-Gari",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-ON-IFE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.935277",
+  "name": "Ifedore",
+  "name1": "Ifedore",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-OY-ISW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.942714",
+  "name": "Ibadan South West",
+  "name1": "Ibadan South West",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-OY-ITE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.949836",
+  "name": "Itesiwaju",
+  "name1": "Itesiwaju",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-PL-QPA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.957069",
+  "name": "Qua'an Pan",
+  "name1": "Qua'an Pan",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-KN-UNG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.964558",
+  "name": "Ungogo",
+  "name1": "Ungogo",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-OS-AI1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.972336",
+  "name": "Aiyedire",
+  "name1": "Aiyedire",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-SO-TUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.979640",
+  "name": "Tureta",
+  "name1": "Tureta",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-IM-OWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.986796",
+  "name": "Oru West",
+  "name1": "Oru West",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-OG-AOD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:19.993643",
+  "name": "Ado-Odo/Ota",
+  "name1": "Ado-Odo/Ota",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-AK-ORO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.002066",
+  "name": "Oron",
+  "name1": "Oron",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-CR-BAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.008743",
+  "name": "Bakassi",
+  "name1": "Bakassi",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-ED-OWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.015339",
+  "name": "Owan West",
+  "name1": "Owan West",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-EN-ANI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.021846",
+  "name": "Aninri",
+  "name1": "Aninri",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-KN-BAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.028327",
+  "name": "Bagwai",
+  "name1": "Bagwai",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-OY-IS1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.035041",
+  "name": "Iseyin",
+  "name1": "Iseyin",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-OY-OGO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.041314",
+  "name": "OgoOluwa",
+  "name1": "OgoOluwa",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-SO-RAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.047779",
+  "name": "Rabah",
+  "name1": "Rabah",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-BA-BOG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.054100",
+  "name": "Bogoro",
+  "name1": "Bogoro",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BE-KON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.060575",
+  "name": "Konshisha",
+  "name1": "Konshisha",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-ED-ORH",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.067987",
+  "name": "Orhionmwon",
+  "name1": "Orhionmwon",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-KN-GMA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.075081",
+  "name": "Garum Mallam",
+  "name1": "Garum Mallam",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KN-SUM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.081299",
+  "name": "Sumaila",
+  "name1": "Sumaila",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KN-TWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.088782",
+  "name": "Tudun Wada",
+  "name1": "Tudun Wada",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-OY-AKI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.095291",
+  "name": "Akinyele",
+  "name1": "Akinyele",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-OY-ONO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.101643",
+  "name": "Ogbomosho North",
+  "name1": "Ogbomosho North",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AD-MNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.107880",
+  "name": "Mubi North",
+  "name1": "Mubi North",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-CR-IKO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.114387",
+  "name": "Ikom",
+  "name1": "Ikom",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-EN-NSU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.120767",
+  "name": "Nsukka",
+  "name1": "Nsukka",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-GO-BIL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.126958",
+  "name": "Billiri",
+  "name1": "Billiri",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-KN-KAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.133513",
+  "name": "Karaye",
+  "name1": "Karaye",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-LA-AOD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.140196",
+  "name": "Amuwo-Odofin",
+  "name1": "Amuwo-Odofin",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-NA-KAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.147027",
+  "name": "Karu",
+  "name1": "Karu",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-RI-ELE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.152762",
+  "name": "Eleme",
+  "name1": "Eleme",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-BE-UKU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.158379",
+  "name": "Ukum",
+  "name1": "Ukum",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-ED-IGU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.164468",
+  "name": "Igueben",
+  "name1": "Igueben",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-ED-UHU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.170163",
+  "name": "Uhunmwonde",
+  "name1": "Uhunmwonde",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-EK-EWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.175627",
+  "name": "Ekiti West",
+  "name1": "Ekiti West",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-IM-OEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.181453",
+  "name": "Oru East",
+  "name1": "Oru East",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-LA-EPE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.187199",
+  "name": "Epe",
+  "name1": "Epe",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-OY-OLU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.193818",
+  "name": "Oluyole",
+  "name1": "Oluyole",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-YO-GEI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.199600",
+  "name": "Geidam",
+  "name1": "Geidam",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-AD-TOU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.206468",
+  "name": "Toungo",
+  "name1": "Toungo",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-GO-YAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.213279",
+  "name": "Yamaltu/Deba",
+  "name1": "Yamaltu/Deba",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-KN-SHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.221335",
+  "name": "Shanono",
+  "name1": "Shanono",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KT-MAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.229355",
+  "name": "Matazuu",
+  "name1": "Matazuu",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KO-IJU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.237484",
+  "name": "Ijumu",
+  "name1": "Ijumu",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KW-IEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.246766",
+  "name": "Ilorin East",
+  "name1": "Ilorin East",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-KW-OER",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.253654",
+  "name": "Oke-Ero",
+  "name1": "Oke-Ero",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-RI-IKW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.260327",
+  "name": "Ikwerre",
+  "name1": "Ikwerre",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-BA-TBA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.266881",
+  "name": "Tafawa-Balewa",
+  "name1": "Tafawa-Balewa",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-OG-SHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.273665",
+  "name": "Shagamu",
+  "name1": "Shagamu",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-TA-USS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.280809",
+  "name": "Ussa",
+  "name1": "Ussa",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-ZA-GUS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.288133",
+  "name": "Gusau",
+  "name1": "Gusau",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-AD-MAD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.294935",
+  "name": "Madagali",
+  "name1": "Madagali",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-AK-UUK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.301860",
+  "name": "Udung Uko",
+  "name1": "Udung Uko",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-KN-WUD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.309390",
+  "name": "Wudil",
+  "name1": "Wudil",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KT-DA1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.316794",
+  "name": "Danja",
+  "name1": "Danja",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KT-KA1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.326050",
+  "name": "Kankia",
+  "name1": "Kankia",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-AN-ANA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.334498",
+  "name": "Anaocha",
+  "name1": "Anaocha",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BA-TOR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.342644",
+  "name": "Toro",
+  "name1": "Toro",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BO-NGA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.349904",
+  "name": "Ngala",
+  "name1": "Ngala",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-DE-BUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.357042",
+  "name": "Burutu",
+  "name1": "Burutu",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-IM-OBO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.365665",
+  "name": "Obowo",
+  "name1": "Obowo",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KE-SAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.372854",
+  "name": "Sakaba",
+  "name1": "Sakaba",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-ON-EOD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.379468",
+  "name": "Ese-Odo",
+  "name1": "Ese-Odo",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-TA-TAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.386364",
+  "name": "Takum",
+  "name1": "Takum",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-DE-WNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.394496",
+  "name": "Warri North",
+  "name1": "Warri North",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-EB-IKW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.402615",
+  "name": "Ikwo",
+  "name1": "Ikwo",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-KN-ALB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.409588",
+  "name": "Albasu",
+  "name1": "Albasu",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-AB-ONW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.415992",
+  "name": "Obi Nwa",
+  "name1": "Obi Nwa",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-BO-MAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.425522",
+  "name": "Maiduguri",
+  "name1": "Maiduguri",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-KE-MAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.432055",
+  "name": "Maiyama",
+  "name1": "Maiyama",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-NI-BOS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.439847",
+  "name": "Bosso",
+  "name1": "Bosso",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-SO-SNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.447451",
+  "name": "Sokoto North",
+  "name1": "Sokoto North",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-SO-TQN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.454135",
+  "name": "Tqngaza",
+  "name1": "Tqngaza",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-AD-GIR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.460587",
+  "name": "Gireri",
+  "name1": "Gireri",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BA-ALK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.467271",
+  "name": "Alkaleri",
+  "name1": "Alkaleri",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BE-GEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.474393",
+  "name": "Gwer East",
+  "name1": "Gwer East",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-IM-EMB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.481054",
+  "name": "Ehime-Mbano",
+  "name1": "Ehime-Mbano",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-ON-ASW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.487804",
+  "name": "Akoko South West",
+  "name1": "Akoko South West",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-ON-ILA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.493938",
+  "name": "Ilaje",
+  "name1": "Ilaje",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-YO-KA1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.500625",
+  "name": "Karawa",
+  "name1": "Karawa",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-BO-KKU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.507262",
+  "name": "Kwaya Kusar",
+  "name1": "Kwaya Kusar",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-CR-YAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.513465",
+  "name": "Yala",
+  "name1": "Yala",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-EK-IOS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.519928",
+  "name": "Idosi-Osi",
+  "name1": "Idosi-Osi",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-KE-ARG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.528005",
+  "name": "Argungu",
+  "name1": "Argungu",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-OG-OWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.535122",
+  "name": "Ogun Waterside",
+  "name1": "Ogun Waterside",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OS-ISO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.541865",
+  "name": "Ife South",
+  "name1": "Ife South",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-YO-NPO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.549196",
+  "name": "Nguru Potiskum",
+  "name1": "Nguru Potiskum",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-ZA-ZUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.556255",
+  "name": "Zurmi",
+  "name1": "Zurmi",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-CR-BOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.562549",
+  "name": "Boki",
+  "name1": "Boki",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-EK-IKO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.568560",
+  "name": "Ikole",
+  "name1": "Ikole",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-EN-ORI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.576047",
+  "name": "Oji-River",
+  "name1": "Oji-River",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-KT-BIN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.583247",
+  "name": "Bindawa",
+  "name1": "Bindawa",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OG-ODO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.589442",
+  "name": "Odogbolu",
+  "name1": "Odogbolu",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-PL-MAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.596038",
+  "name": "Mangu",
+  "name1": "Mangu",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-RI-OPO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.603218",
+  "name": "Opobo/Nkoro",
+  "name1": "Opobo/Nkoro",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-AK-IBE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.610512",
+  "name": "Ibeno",
+  "name1": "Ibeno",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AN-AGU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.617823",
+  "name": "Aguata",
+  "name1": "Aguata",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BO-DIK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.626761",
+  "name": "Dikwa",
+  "name1": "Dikwa",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-KN-RAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.633345",
+  "name": "Rano",
+  "name1": "Rano",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KN-TOF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.639218",
+  "name": "Tofa",
+  "name1": "Tofa",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-ON-OSE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.645911",
+  "name": "Ose",
+  "name1": "Ose",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-PL-LSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.652490",
+  "name": "Langtang South",
+  "name1": "Langtang South",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-AN-EKW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.658916",
+  "name": "Ekwusigo",
+  "name1": "Ekwusigo",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BE-MAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.665444",
+  "name": "Makurdi",
+  "name1": "Makurdi",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-DE-BOM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.670824",
+  "name": "Bomadi",
+  "name1": "Bomadi",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-EN-IET",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.676566",
+  "name": "Igbo-Etiti",
+  "name1": "Igbo-Etiti",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-EN-NWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.683468",
+  "name": "Nkanu West",
+  "name1": "Nkanu West",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-IM-ONO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.690418",
+  "name": "Owerri North",
+  "name1": "Owerri North",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-KAZ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.696690",
+  "name": "Kazaure",
+  "name1": "Kazaure",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KO-YEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.703142",
+  "name": "Yagba East",
+  "name1": "Yagba East",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-DE-OKP",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.709698",
+  "name": "Okpe",
+  "name1": "Okpe",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-EB-EBO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.715194",
+  "name": "Ebonyi",
+  "name1": "Ebonyi",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-ED-AED",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.721873",
+  "name": "Akoko-Edo",
+  "name1": "Akoko-Edo",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-IM-OGU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.727439",
+  "name": "Oguta",
+  "name1": "Oguta",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KN-TAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.733002",
+  "name": "Tarauni",
+  "name1": "Tarauni",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-LA-LMA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.738619",
+  "name": "Lagos Mainland",
+  "name1": "Lagos Mainland",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-OS-BOL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.743966",
+  "name": "Boluwaduro",
+  "name1": "Boluwaduro",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-AK-UOF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.749800",
+  "name": "Urue-Offong/Oruko",
+  "name1": "Urue-Offong/Oruko",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-BY-NEM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.755233",
+  "name": "Nembe",
+  "name1": "Nembe",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-KT-BAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.761537",
+  "name": "Batagarawa",
+  "name1": "Batagarawa",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-NI-EDA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.769396",
+  "name": "Edati",
+  "name1": "Edati",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-NI-MAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.775815",
+  "name": "Mashegu",
+  "name1": "Mashegu",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-ON-OKI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.782364",
+  "name": "Okitipupa",
+  "name1": "Okitipupa",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-OS-IWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.789248",
+  "name": "Ilesha West",
+  "name1": "Ilesha West",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-DE-ASO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.794844",
+  "name": "Aniocha South",
+  "name1": "Aniocha South",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-FC-KLG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.802147",
+  "name": "Kuje LGA",
+  "name1": "Kuje LGA",
+  "state_code": "NG-FC"
+ },
+ {
+  "code": "NG-NI-CHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.808161",
+  "name": "Chanchaga",
+  "name1": "Chanchaga",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-CR-CSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.814235",
+  "name": "Calabar South",
+  "name1": "Calabar South",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-ED-IOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.820286",
+  "name": "Ikpoba-Okha",
+  "name1": "Ikpoba-Okha",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-KT-CHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.825590",
+  "name": "Charanchi",
+  "name1": "Charanchi",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-ON-IRE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.831082",
+  "name": "Irele",
+  "name1": "Irele",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-AB-UEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.836890",
+  "name": "Ukwa East",
+  "name1": "Ukwa East",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AK-UYO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.842249",
+  "name": "Uyo",
+  "name1": "Uyo",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-KN-DAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.847587",
+  "name": "Dala",
+  "name1": "Dala",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-NI-GBA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.853847",
+  "name": "Gbako",
+  "name1": "Gbako",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-PL-BOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.859620",
+  "name": "Bokkos",
+  "name1": "Bokkos",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-AK-IKA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.866197",
+  "name": "Ika",
+  "name1": "Ika",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-KO-MMU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.872733",
+  "name": "Mopa-Muro",
+  "name1": "Mopa-Muro",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-AK-NUB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.878554",
+  "name": "Nsit Ubium",
+  "name1": "Nsit Ubium",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-ED-EGO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.884720",
+  "name": "Egor",
+  "name1": "Egor",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-EK-EFO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.891174",
+  "name": "Efon",
+  "name1": "Efon",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-FC-BLG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.897104",
+  "name": "Bwari LGA",
+  "name1": "Bwari LGA",
+  "state_code": "NG-FC"
+ },
+ {
+  "code": "NG-GO-AKK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.903124",
+  "name": "Akko",
+  "name1": "Akko",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-JI-GUM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.909380",
+  "name": "Gumel",
+  "name1": "Gumel",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KN-BUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.915119",
+  "name": "Bunkure",
+  "name1": "Bunkure",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-LA-APA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.920695",
+  "name": "Apapa",
+  "name1": "Apapa",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-BO-ABA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.927588",
+  "name": "Abadam",
+  "name1": "Abadam",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-BO-GWO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.932881",
+  "name": "Gwoza",
+  "name1": "Gwoza",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-KE-SHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.938709",
+  "name": "Shanga",
+  "name1": "Shanga",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-OS-OOL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.944145",
+  "name": "Ola-Oluwa",
+  "name1": "Ola-Oluwa",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-RI-GOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.949312",
+  "name": "Gokana",
+  "name1": "Gokana",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-BY-SIJ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.954481",
+  "name": "Southern Ijaw",
+  "name1": "Southern Ijaw",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-KT-KAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.960414",
+  "name": "Kankara",
+  "name1": "Kankara",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-LA-IIJ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.966844",
+  "name": "Ifako-Ijaye",
+  "name1": "Ifako-Ijaye",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-NI-MUY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.973509",
+  "name": "Muya",
+  "name1": "Muya",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-OY-IN1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.979536",
+  "name": "Ibarapa North",
+  "name1": "Ibarapa North",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-GO-BAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.985141",
+  "name": "Balanga",
+  "name1": "Balanga",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-JI-MAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:20.991867",
+  "name": "Maigatari",
+  "name1": "Maigatari",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KO-DEK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.007424",
+  "name": "Dekina",
+  "name1": "Dekina",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-OG-OOW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.015071",
+  "name": "Obafemi-Owode",
+  "name1": "Obafemi-Owode",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OY-INO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.022143",
+  "name": "Ibadan North",
+  "name1": "Ibadan North",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-PL-WAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.028915",
+  "name": "Wase",
+  "name1": "Wase",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-DE-ONO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.036125",
+  "name": "Oshimili North",
+  "name1": "Oshimili North",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-ED-OEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.043531",
+  "name": "Owan East",
+  "name1": "Owan East",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-KN-GAY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.049760",
+  "name": "Gaya",
+  "name1": "Gaya",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KE-FAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.058096",
+  "name": "Fakai",
+  "name1": "Fakai",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-KO-OFU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.065341",
+  "name": "Ofu",
+  "name1": "Ofu",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-NA-AKW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.072242",
+  "name": "Akwanga",
+  "name1": "Akwanga",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-NI-TAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.078936",
+  "name": "Tafa",
+  "name1": "Tafa",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-ON-OWO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.086247",
+  "name": "Owo",
+  "name1": "Owo",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-AN-ANO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.094352",
+  "name": "Awka North",
+  "name1": "Awka North",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-PL-SHE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.101507",
+  "name": "Shendam",
+  "name1": "Shendam",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-RI-DEG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.108211",
+  "name": "Degema",
+  "name1": "Degema",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-DE-UDU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.115518",
+  "name": "Udu",
+  "name1": "Udu",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-KT-DMA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.124351",
+  "name": "Dutsin-Ma",
+  "name1": "Dutsin-Ma",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-LA-KOS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.133317",
+  "name": "Kosofe",
+  "name1": "Kosofe",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-OS-IS1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.145774",
+  "name": "Isokan",
+  "name1": "Isokan",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-DE-NEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.161185",
+  "name": "Ndokwa East",
+  "name1": "Ndokwa East",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-EB-ISH",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.175567",
+  "name": "Ishielu",
+  "name1": "Ishielu",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-KD-KAC",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.190605",
+  "name": "Kachia",
+  "name1": "Kachia",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KD-KUB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.199090",
+  "name": "Kubau",
+  "name1": "Kubau",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KT-KUS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.209015",
+  "name": "Kusada",
+  "name1": "Kusada",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OG-IFO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.218603",
+  "name": "Ifo",
+  "name1": "Ifo",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-RI-ATO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.226447",
+  "name": "Akuku Toru",
+  "name1": "Akuku Toru",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-RI-OGB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.234107",
+  "name": "Ogba/Egbema/Ndoni",
+  "name1": "Ogba/Egbema/Ndoni",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-ED-ENE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.241542",
+  "name": "Esan North East",
+  "name1": "Esan North East",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-KD-KAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.249245",
+  "name": "kauru",
+  "name1": "kauru",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KT-KUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.258255",
+  "name": "Kurfi",
+  "name1": "Kurfi",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KT-MAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.267073",
+  "name": "Mai'Adua",
+  "name1": "Mai'Adua",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OS-INO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.275007",
+  "name": "Ife North",
+  "name1": "Ife North",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-OY-IWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.283124",
+  "name": "Iwajowa",
+  "name1": "Iwajowa",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-TA-WUK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.295705",
+  "name": "Wukari",
+  "name1": "Wukari",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-AK-EUD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.303895",
+  "name": "Essien Udim",
+  "name1": "Essien Udim",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AK-MEN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.313578",
+  "name": "Mkpat Enin",
+  "name1": "Mkpat Enin",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-CR-OBA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.322179",
+  "name": "Obanliku",
+  "name1": "Obanliku",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-IM-ISU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.330311",
+  "name": "Isu",
+  "name1": "Isu",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-IM-OKI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.337977",
+  "name": "Okigwe",
+  "name1": "Okigwe",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-GAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.346026",
+  "name": "Gagarawa",
+  "name1": "Gagarawa",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-OS-IWO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.353313",
+  "name": "Iwo",
+  "name1": "Iwo",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-OY-ICE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.360059",
+  "name": "Ibadan Central",
+  "name1": "Ibadan Central",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AD-GOM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.366578",
+  "name": "Gombi",
+  "name1": "Gombi",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-AN-OS1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.374105",
+  "name": "Orumba South",
+  "name1": "Orumba South",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BA-DAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.380594",
+  "name": "Dass",
+  "name1": "Dass",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BE-AGA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.387119",
+  "name": "Agatu",
+  "name1": "Agatu",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-ON-ANW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.393944",
+  "name": "Akoko North West",
+  "name1": "Akoko North West",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-ON-ASO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.401064",
+  "name": "Akure South",
+  "name1": "Akure South",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-OY-IRE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.408056",
+  "name": "Irepo",
+  "name1": "Irepo",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-ZA-MA1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.414133",
+  "name": "Maru",
+  "name1": "Maru",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-BE-APA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.420123",
+  "name": "Apa",
+  "name1": "Apa",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-JI-KIY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.425731",
+  "name": "Kiyawa",
+  "name1": "Kiyawa",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-JI-MMA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.431287",
+  "name": "Malam Madori",
+  "name1": "Malam Madori",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KO-OGO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.438060",
+  "name": "Ogori/Mangongo",
+  "name1": "Ogori/Mangongo",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KW-BAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.446232",
+  "name": "Baruten",
+  "name1": "Baruten",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-KW-IWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.454008",
+  "name": "Ilorin West",
+  "name1": "Ilorin West",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-AB-IKW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.460154",
+  "name": "Ikwuano",
+  "name1": "Ikwuano",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AK-URU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.466001",
+  "name": "Uruan",
+  "name1": "Uruan",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-DE-EEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.476956",
+  "name": "Ethiope East",
+  "name1": "Ethiope East",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-DE-UNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.482641",
+  "name": "Ughelli North",
+  "name1": "Ughelli North",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-GO-NAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.487857",
+  "name": "Nafada",
+  "name1": "Nafada",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-IM-NOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.493573",
+  "name": "Ngor-Okpala",
+  "name1": "Ngor-Okpala",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KT-RIM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.498831",
+  "name": "Rimi",
+  "name1": "Rimi",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KW-IRE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.504090",
+  "name": "Irepodun",
+  "name1": "Irepodun",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-AD-GUY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.509643",
+  "name": "Guyuk",
+  "name1": "Guyuk",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-AK-IIB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.516988",
+  "name": "Ibiono Ibom",
+  "name1": "Ibiono Ibom",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-BA-WAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.525269",
+  "name": "Warji",
+  "name1": "Warji",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-EK-IJE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.531939",
+  "name": "Ijero",
+  "name1": "Ijero",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-RI-AT1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.538370",
+  "name": "Asari-Toru",
+  "name1": "Asari-Toru",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-SO-BIN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.544708",
+  "name": "Binji",
+  "name1": "Binji",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-SO-ISA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.552180",
+  "name": "Isa",
+  "name1": "Isa",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-TA-KLA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.558345",
+  "name": "Karin-Lamido",
+  "name1": "Karin-Lamido",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-AD-HON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.564910",
+  "name": "Hong",
+  "name1": "Hong",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-AN-OGB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.571458",
+  "name": "Ogbaru",
+  "name1": "Ogbaru",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BA-KIR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.577377",
+  "name": "Kirfi",
+  "name1": "Kirfi",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-EB-ENO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.584055",
+  "name": "Ezza North",
+  "name1": "Ezza North",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-KT-MUS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.590427",
+  "name": "Musawa",
+  "name1": "Musawa",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KE-AUG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.596305",
+  "name": "Augie",
+  "name1": "Augie",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-AD-MSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.601705",
+  "name": "Mubi South",
+  "name1": "Mubi South",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-AK-IKO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.611245",
+  "name": "Ikono",
+  "name1": "Ikono",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AN-INO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.617312",
+  "name": "Idemili North",
+  "name1": "Idemili North",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-OG-IPO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.623586",
+  "name": "Ipokia",
+  "name1": "Ipokia",
+  "state_code": "NG-OG"
+ },
+ {
+  "code": "NG-OS-IE1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.629455",
+  "name": "Ilesha East",
+  "name1": "Ilesha East",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-SO-BOD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.636345",
+  "name": "Bodinga",
+  "name1": "Bodinga",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-BA-BAU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.642347",
+  "name": "Bauchi",
+  "name1": "Bauchi",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-IM-OW1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.647930",
+  "name": "Owerri West",
+  "name1": "Owerri West",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-DUT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.655116",
+  "name": "Dutse",
+  "name1": "Dutse",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KD-KAJ",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.665111",
+  "name": "Kajuru",
+  "name1": "Kajuru",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KE-ADA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.671258",
+  "name": "Arewa-Dandi",
+  "name1": "Arewa-Dandi",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-OS-OBO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.684046",
+  "name": "Obokun",
+  "name1": "Obokun",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-AD-FUF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.690565",
+  "name": "Fufore",
+  "name1": "Fufore",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BE-ADO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.697622",
+  "name": "Ado",
+  "name1": "Ado",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-DE-ISO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.706120",
+  "name": "Ika South",
+  "name1": "Ika South",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-IM-AM1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.712340",
+  "name": "Ahiazu-Mbaise",
+  "name1": "Ahiazu-Mbaise",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-KW-ISL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.718437",
+  "name": "Ilorin South LGA",
+  "name1": "Ilorin South LGA",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-PL-RIY",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.724557",
+  "name": "Riyom",
+  "name1": "Riyom",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-AK-ITU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.732341",
+  "name": "Itu",
+  "name1": "Itu",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-KT-SAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.748687",
+  "name": "Sandamu",
+  "name1": "Sandamu",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-EB-ASO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.762520",
+  "name": "Afikpo South",
+  "name1": "Afikpo South",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-JI-STA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.771858",
+  "name": "Sule-Tankarkar",
+  "name1": "Sule-Tankarkar",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KN-GAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.778645",
+  "name": "Garko",
+  "name1": "Garko",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-NI-MOK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.786077",
+  "name": "Mokwa",
+  "name1": "Mokwa",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-TA-AKO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.794330",
+  "name": "Ardo-kola",
+  "name1": "Ardo-kola",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-YO-YUS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.801305",
+  "name": "Yusufari",
+  "name1": "Yusufari",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-DE-USO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.809667",
+  "name": "Ughelli South",
+  "name1": "Ughelli South",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-JI-BKU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.817725",
+  "name": "Birni Kudu",
+  "name1": "Birni Kudu",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KT-KAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.824928",
+  "name": "Katsina",
+  "name1": "Katsina",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OY-IEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.832907",
+  "name": "Ibarapa East",
+  "name1": "Ibarapa East",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-AB-ANO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.839672",
+  "name": "Aba North",
+  "name1": "Aba North",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AN-OYI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.846736",
+  "name": "Oyi",
+  "name1": "Oyi",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-CR-YAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.854136",
+  "name": "Yakurr",
+  "name1": "Yakurr",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-KD-ZAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.874478",
+  "name": "Zaria",
+  "name1": "Zaria",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-LA-ALI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.888235",
+  "name": "Alimosho",
+  "name1": "Alimosho",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-NI-SHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.894950",
+  "name": "Shiroro",
+  "name1": "Shiroro",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-BO-BAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.900905",
+  "name": "Bama",
+  "name1": "Bama",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-DE-EWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.906680",
+  "name": "Ethiope West",
+  "name1": "Ethiope West",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-OS-EGB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.912807",
+  "name": "Egbedore",
+  "name1": "Egbedore",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-TA-GAS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.919159",
+  "name": "Gashaka",
+  "name1": "Gashaka",
+  "state_code": "NG-TA"
+ },
+ {
+  "code": "NG-YO-KAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.925644",
+  "name": "Karasuwa",
+  "name1": "Karasuwa",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-KT-KAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.932632",
+  "name": "Kaita",
+  "name1": "Kaita",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-OS-IR1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.943555",
+  "name": "Irewole",
+  "name1": "Irewole",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-ZA-TSA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.950322",
+  "name": "Tsafe",
+  "name1": "Tsafe",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-KT-SAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.957408",
+  "name": "Safana",
+  "name1": "Safana",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-NI-BID",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.964193",
+  "name": "Bida",
+  "name1": "Bida",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-ON-ANO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.970020",
+  "name": "Akure North",
+  "name1": "Akure North",
+  "state_code": "NG-ON"
+ },
+ {
+  "code": "NG-ZA-BAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.975216",
+  "name": "Bakura",
+  "name1": "Bakura",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-AB-INN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.980202",
+  "name": "Isiala-Ngwa North",
+  "name1": "Isiala-Ngwa North",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AD-SON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.985485",
+  "name": "Song",
+  "name1": "Song",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-EK-ADO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.991671",
+  "name": "AdoEkiti",
+  "name1": "AdoEkiti",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-JI-GWI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:21.997901",
+  "name": "Gwiwa",
+  "name1": "Gwiwa",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KO-ANK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.004108",
+  "name": "Ankpa",
+  "name1": "Ankpa",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KO-KAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.009821",
+  "name": "Kabba/Bunu",
+  "name1": "Kabba/Bunu",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-CR-OGO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.014903",
+  "name": "Ogoja",
+  "name1": "Ogoja",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-IM-MBA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.019583",
+  "name": "Mbaitoli",
+  "name1": "Mbaitoli",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-RON",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.024719",
+  "name": "Roni",
+  "name1": "Roni",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-NI-KAT",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.037193",
+  "name": "Katcha",
+  "name1": "Katcha",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-PL-KA1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.042293",
+  "name": "Kanke",
+  "name1": "Kanke",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-AB-UGW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.047647",
+  "name": "Ugwunagbo",
+  "name1": "Ugwunagbo",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-DE-WSO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.053468",
+  "name": "Warri South",
+  "name1": "Warri South",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-KD-KAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.058284",
+  "name": "Kagarko",
+  "name1": "Kagarko",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-OS-ILA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.063005",
+  "name": "Ila",
+  "name1": "Ila",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-AB-ISU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.068018",
+  "name": "Isuikwato",
+  "name1": "Isuikwato",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AB-UWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.073642",
+  "name": "Ukwa West",
+  "name1": "Ukwa West",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AK-EOB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.078855",
+  "name": "Eastern Obolo",
+  "name1": "Eastern Obolo",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-AK-INI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.084252",
+  "name": "Ini",
+  "name1": "Ini",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-GO-SHO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.089724",
+  "name": "Shomgom",
+  "name1": "Shomgom",
+  "state_code": "NG-GO"
+ },
+ {
+  "code": "NG-KD-KUD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.095752",
+  "name": "kudan",
+  "name1": "kudan",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-PL-JEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.101111",
+  "name": "Jos East",
+  "name1": "Jos East",
+  "state_code": "NG-PL"
+ },
+ {
+  "code": "NG-RI-EMO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.105676",
+  "name": "Emohua",
+  "name1": "Emohua",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-BA-JAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.110810",
+  "name": "Jama'are",
+  "name1": "Jama'are",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BE-OKP",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.115682",
+  "name": "Okpokwu",
+  "name1": "Okpokwu",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-BE-USH",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.120510",
+  "name": "Ushongo",
+  "name1": "Ushongo",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-CR-OB1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.126699",
+  "name": "Obudu",
+  "name1": "Obudu",
+  "state_code": "NG-CR"
+ },
+ {
+  "code": "NG-EN-ENO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.132612",
+  "name": "Enugu North",
+  "name1": "Enugu North",
+  "state_code": "NG-EN"
+ },
+ {
+  "code": "NG-KN-KUM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.137568",
+  "name": "kumbotso",
+  "name1": "kumbotso",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-OS-ORO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.146573",
+  "name": "Orolu",
+  "name1": "Orolu",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-YO-JAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.151676",
+  "name": "Jakusko",
+  "name1": "Jakusko",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-AD-SHE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.156645",
+  "name": "Shelleng",
+  "name1": "Shelleng",
+  "state_code": "NG-AD"
+ },
+ {
+  "code": "NG-BO-ASK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.161479",
+  "name": "Askira/Uba",
+  "name1": "Askira/Uba",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-BO-KAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.165857",
+  "name": "Kaga",
+  "name1": "Kaga",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-NA-LAF",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.174587",
+  "name": "Lafia",
+  "name1": "Lafia",
+  "state_code": "NG-NA"
+ },
+ {
+  "code": "NG-OY-OEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.180906",
+  "name": "Oyo East",
+  "name1": "Oyo East",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-RI-AWE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.187144",
+  "name": "Ahoada West",
+  "name1": "Ahoada West",
+  "state_code": "NG-RI"
+ },
+ {
+  "code": "NG-ZA-MAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.192725",
+  "name": "Maradun",
+  "name1": "Maradun",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-EB-OHA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.198283",
+  "name": "Ohaozara",
+  "name1": "Ohaozara",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-EB-ONI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.203612",
+  "name": "Onicha",
+  "name1": "Onicha",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-LA-BAD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.209522",
+  "name": "Badagry",
+  "name1": "Badagry",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-OS-ORI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.214960",
+  "name": "Oriade",
+  "name1": "Oriade",
+  "state_code": "NG-OS"
+ },
+ {
+  "code": "NG-ZA-TMA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.220042",
+  "name": "Talata Mafara",
+  "name1": "Talata Mafara",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-AN-ISO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.225153",
+  "name": "Idemili south",
+  "name1": "Idemili south",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BA-SHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.232035",
+  "name": "Shira",
+  "name1": "Shira",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-BO-KAL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.237866",
+  "name": "Kala/Balge",
+  "name1": "Kala/Balge",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-ED-EEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.243355",
+  "name": "Etsako East",
+  "name1": "Etsako East",
+  "state_code": "NG-ED"
+ },
+ {
+  "code": "NG-IM-IHI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.248874",
+  "name": "Ihitte/Uboma",
+  "name1": "Ihitte/Uboma",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-LA-IKE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.256055",
+  "name": "Ikeja",
+  "name1": "Ikeja",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-YO-NAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.261743",
+  "name": "Nangere",
+  "name1": "Nangere",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-ZA-KNA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.267735",
+  "name": "Kaura Namoda",
+  "name1": "Kaura Namoda",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-BY-YEN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.273184",
+  "name": "Yenegoa",
+  "name1": "Yenegoa",
+  "state_code": "NG-BY"
+ },
+ {
+  "code": "NG-BE-VAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.278950",
+  "name": "Vandeikya",
+  "name1": "Vandeikya",
+  "state_code": "NG-BE"
+ },
+ {
+  "code": "NG-KD-SAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.284331",
+  "name": "Sanga",
+  "name1": "Sanga",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KN-GWA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.290033",
+  "name": "Gwale",
+  "name1": "Gwale",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KT-DAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.295762",
+  "name": "Dandume",
+  "name1": "Dandume",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KO-IOD",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.302078",
+  "name": "Igalamela-Odolu",
+  "name1": "Igalamela-Odolu",
+  "state_code": "NG-KO"
+ },
+ {
+  "code": "NG-KW-EKI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.307689",
+  "name": "Ekiti",
+  "name1": "Ekiti",
+  "state_code": "NG-KW"
+ },
+ {
+  "code": "NG-LA-MUS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.312873",
+  "name": "Mushin",
+  "name1": "Mushin",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-AN-AEA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.318440",
+  "name": "Anambra East",
+  "name1": "Anambra East",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-BA-MIS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.323518",
+  "name": "Misau",
+  "name1": "Misau",
+  "state_code": "NG-BA"
+ },
+ {
+  "code": "NG-KE-SUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.329325",
+  "name": "Suru",
+  "name1": "Suru",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-SO-WUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.334600",
+  "name": "Wurno",
+  "name1": "Wurno",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-AN-DUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.339619",
+  "name": "Dunukofia",
+  "name1": "Dunukofia",
+  "state_code": "NG-AN"
+ },
+ {
+  "code": "NG-EB-OH1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.344743",
+  "name": "Ohaukwu",
+  "name1": "Ohaukwu",
+  "state_code": "NG-EB"
+ },
+ {
+  "code": "NG-KE-DAN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.350245",
+  "name": "Dandi",
+  "name1": "Dandi",
+  "state_code": "NG-KE"
+ },
+ {
+  "code": "NG-NI-MAG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.355001",
+  "name": "Magama",
+  "name1": "Magama",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-SO-SIL",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.359330",
+  "name": "Silame",
+  "name1": "Silame",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-SO-WAM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.363747",
+  "name": "Wamako",
+  "name1": "Wamako",
+  "state_code": "NG-SO"
+ },
+ {
+  "code": "NG-EK-EMU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.368836",
+  "name": "Emure",
+  "name1": "Emure",
+  "state_code": "NG-EK"
+ },
+ {
+  "code": "NG-NI-AGA",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.372623",
+  "name": "Agaie",
+  "name1": "Agaie",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-YO-TAR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.379844",
+  "name": "Tarmua",
+  "name1": "Tarmua",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-AK-EEK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.384559",
+  "name": "Esit Eket",
+  "name1": "Esit Eket",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-DE-SAP",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.389681",
+  "name": "Sapele",
+  "name1": "Sapele",
+  "state_code": "NG-DE"
+ },
+ {
+  "code": "NG-KD-BGW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.394584",
+  "name": "Birnin-Gwari",
+  "name1": "Birnin-Gwari",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-LA-OIS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.399367",
+  "name": "Oshodi-Isolo",
+  "name1": "Oshodi-Isolo",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-NI-LAV",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.404188",
+  "name": "Lavun",
+  "name1": "Lavun",
+  "state_code": "NG-NI"
+ },
+ {
+  "code": "NG-OY-ORE",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.409388",
+  "name": "Orelope",
+  "name1": "Orelope",
+  "state_code": "NG-OY"
+ },
+ {
+  "code": "NG-ZA-BUK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.414471",
+  "name": "Bukkuyum",
+  "name1": "Bukkuyum",
+  "state_code": "NG-ZA"
+ },
+ {
+  "code": "NG-BO-HAW",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.419416",
+  "name": "Hawul",
+  "name1": "Hawul",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-KD-KLG",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.425116",
+  "name": "Kaura LGA",
+  "name1": "Kaura LGA",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-YO-FUN",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.430952",
+  "name": "Fune",
+  "name1": "Fune",
+  "state_code": "NG-YO"
+ },
+ {
+  "code": "NG-BO-BIU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.437368",
+  "name": "Biu",
+  "name1": "Biu",
+  "state_code": "NG-BO"
+ },
+ {
+  "code": "NG-IM-UNU",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.443192",
+  "name": "Unuimo",
+  "name1": "Unuimo",
+  "state_code": "NG-IM"
+ },
+ {
+  "code": "NG-JI-BIR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.449704",
+  "name": "Biriniwa",
+  "name1": "Biriniwa",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KD-KNO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.455797",
+  "name": "Kaduna North",
+  "name1": "Kaduna North",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-LA-EOS",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.461305",
+  "name": "Eti-Osa",
+  "name1": "Eti-Osa",
+  "state_code": "NG-LA"
+ },
+ {
+  "code": "NG-AB-ARO",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.467271",
+  "name": "Arochukwu",
+  "name1": "Arochukwu",
+  "state_code": "NG-AB"
+ },
+ {
+  "code": "NG-AK-IAB",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.472603",
+  "name": "Ikot Abasi",
+  "name1": "Ikot Abasi",
+  "state_code": "NG-AK"
+ },
+ {
+  "code": "NG-JI-GUR",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.478606",
+  "name": "Guri",
+  "name1": "Guri",
+  "state_code": "NG-JI"
+ },
+ {
+  "code": "NG-KD-JEM",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.483905",
+  "name": "Jema'a",
+  "name1": "Jema'a",
+  "state_code": "NG-KD"
+ },
+ {
+  "code": "NG-KN-GW1",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.490050",
+  "name": "Gwarzo",
+  "name1": "Gwarzo",
+  "state_code": "NG-KN"
+ },
+ {
+  "code": "NG-KT-BAK",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.495927",
+  "name": "Bakori",
+  "name1": "Bakori",
+  "state_code": "NG-KT"
+ },
+ {
+  "code": "NG-KW-KAI",
+  "docstatus": 0,
+  "doctype": "Local Government List",
+  "modified": "2026-03-13 10:27:22.502193",
+  "name": "Kaiama",
+  "name1": "Kaiama",
+  "state_code": "NG-KW"
+ }
+]

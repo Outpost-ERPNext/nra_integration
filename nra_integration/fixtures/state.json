@@ -1,0 +1,298 @@
+[
+ {
+  "code": "NG-CR",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:25.939683",
+  "name": "Cross River",
+  "state_name": "Cross River"
+ },
+ {
+  "code": "NG-IM",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:25.966989",
+  "name": "Imo",
+  "state_name": "Imo"
+ },
+ {
+  "code": "NG-KE",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:25.978909",
+  "name": "Kebbi",
+  "state_name": "Kebbi"
+ },
+ {
+  "code": "NG-PL",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:25.985942",
+  "name": "Plateau",
+  "state_name": "Plateau"
+ },
+ {
+  "code": "NG-EK",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:25.992904",
+  "name": "Ekiti",
+  "state_name": "Ekiti"
+ },
+ {
+  "code": "NG-KW",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.001187",
+  "name": "Kwara",
+  "state_name": "Kwara"
+ },
+ {
+  "code": "NG-RI",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.010654",
+  "name": "Rivers",
+  "state_name": "Rivers"
+ },
+ {
+  "code": "NG-ZA",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.017852",
+  "name": "Zamfara",
+  "state_name": "Zamfara"
+ },
+ {
+  "code": "NG-BY",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.025479",
+  "name": "Bayelsa",
+  "state_name": "Bayelsa"
+ },
+ {
+  "code": "NG-EB",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.034794",
+  "name": "Ebonyi",
+  "state_name": "Ebonyi"
+ },
+ {
+  "code": "NG-ED",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.042651",
+  "name": "Edo",
+  "state_name": "Edo"
+ },
+ {
+  "code": "NG-KO",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.051452",
+  "name": "Kogi",
+  "state_name": "Kogi"
+ },
+ {
+  "code": "NG-LA",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.060953",
+  "name": "Lagos",
+  "state_name": "Lagos"
+ },
+ {
+  "code": "NG-OG",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.068631",
+  "name": "Ogun",
+  "state_name": "Ogun"
+ },
+ {
+  "code": "NG-OY",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.076569",
+  "name": "Oyo",
+  "state_name": "Oyo"
+ },
+ {
+  "code": "NG-KT",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.085642",
+  "name": "Katsina",
+  "state_name": "Katsina"
+ },
+ {
+  "code": "NG-OS",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.093128",
+  "name": "Osun",
+  "state_name": "Osun"
+ },
+ {
+  "code": "NG-AK",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.100782",
+  "name": "Akwa Ibom",
+  "state_name": "Akwa Ibom"
+ },
+ {
+  "code": "NG-DE",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.110069",
+  "name": "Delta",
+  "state_name": "Delta"
+ },
+ {
+  "code": "NG-EN",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.118711",
+  "name": "Enugu",
+  "state_name": "Enugu"
+ },
+ {
+  "code": "NG-NA",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.129008",
+  "name": "Nasarawa",
+  "state_name": "Nasarawa"
+ },
+ {
+  "code": "NG-AD",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.138858",
+  "name": "Adamawa",
+  "state_name": "Adamawa"
+ },
+ {
+  "code": "NG-AN",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.148631",
+  "name": "Anambra",
+  "state_name": "Anambra"
+ },
+ {
+  "code": "NG-BA",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.159314",
+  "name": "Bauchi",
+  "state_name": "Bauchi"
+ },
+ {
+  "code": "NG-KD",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.167512",
+  "name": "Kaduna",
+  "state_name": "Kaduna"
+ },
+ {
+  "code": "NG-KN",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.177148",
+  "name": "Kano",
+  "state_name": "Kano"
+ },
+ {
+  "code": "NG-NI",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.187300",
+  "name": "Niger",
+  "state_name": "Niger"
+ },
+ {
+  "code": "NG-SO",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.196818",
+  "name": "Sokoto",
+  "state_name": "Sokoto"
+ },
+ {
+  "code": "NG-BE",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.207575",
+  "name": "Benue",
+  "state_name": "Benue"
+ },
+ {
+  "code": "NG-BO",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.216535",
+  "name": "Borno",
+  "state_name": "Borno"
+ },
+ {
+  "code": "NG-FC",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.224377",
+  "name": "Abuja Federal Capital Territory",
+  "state_name": "Abuja Federal Capital Territory"
+ },
+ {
+  "code": "NG-JI",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.235357",
+  "name": "Jigawa",
+  "state_name": "Jigawa"
+ },
+ {
+  "code": "NG-TA",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.244796",
+  "name": "Taraba",
+  "state_name": "Taraba"
+ },
+ {
+  "code": "NG-AB",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.255106",
+  "name": "Abia",
+  "state_name": "Abia"
+ },
+ {
+  "code": "NG-GO",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.264188",
+  "name": "Gombe",
+  "state_name": "Gombe"
+ },
+ {
+  "code": "NG-ON",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.274228",
+  "name": "Ondo",
+  "state_name": "Ondo"
+ },
+ {
+  "code": "NG-YO",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2026-03-09 11:32:26.285599",
+  "name": "Yobe",
+  "state_name": "Yobe"
+ }
+]

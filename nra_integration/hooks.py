@@ -4,11 +4,55 @@ app_publisher = "Outpost Work LLP"
 app_description = "NRA Integration"
 app_email = "anas.outpost@gmail.com"
 app_license = "mit"
+required_apps = ["frappe/erpnext"]
 
 # Apps
 # ------------------
+fixtures = [
+    {
+        "doctype": "HSN Code"
+    },
+    {
+        "doctype": "State"
+    },
+    {
+        "doctype": "Local Government List"
+    }
+]
 
-# required_apps = []
+
+after_install = [
+    "nra_integration.customizations.item_custom.create_custom_fields",
+    "nra_integration.customizations.company_custom.create_custom_fields",
+    "nra_integration.customizations.address_custom.create_custom_fields",
+    "nra_integration.customizations.customer_custom.create_custom_fields",
+    "nra_integration.customizations.sales_invoice_custom.create_custom_fields"
+]
+after_uninstall = [
+    "nra_integration.customizations.item_custom.delete_custom_fields",
+    "nra_integration.customizations.company_custom.delete_custom_fields",
+    "nra_integration.customizations.address_custom.delete_custom_fields",
+    "nra_integration.customizations.customer_custom.delete_custom_fields",
+    "nra_integration.customizations.sales_invoice_custom.delete_custom_fields"
+]
+after_migrate = [
+    "nra_integration.customizations.item_custom.create_custom_fields",
+    "nra_integration.customizations.company_custom.create_custom_fields",
+    "nra_integration.customizations.address_custom.create_custom_fields",
+    "nra_integration.customizations.customer_custom.create_custom_fields",
+    "nra_integration.customizations.sales_invoice_custom.create_custom_fields"
+]
+
+doctype_js = {
+    "Item": "public/js/item_custom.js",
+    "Company": "public/js/company_custom.js",
+    "Customer": "public/js/customer_custom.js",
+    "Sales Invoice": "public/js/sales_invoice_custom.js"
+}
+
+doctype_list_js = {
+    "Sales Invoice": "public/js/sales_invoice_list.js"
+}
 
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
@@ -137,13 +181,17 @@ app_license = "mit"
 # ---------------
 # Hook on document methods and events
 
-# doc_events = {
-# 	"*": {
-# 		"on_update": "method",
-# 		"on_cancel": "method",
-# 		"on_trash": "method"
-# 	}
-# }
+doc_events = {
+    "Item": {
+        "on_update": "nra_integration.integration.item_integration.sync_item_to_digitax"
+    },
+    "Company": {
+        "on_update": "nra_integration.integration.company_integration.sync_company_to_digitax"
+    },
+    "Sales Invoice": {
+        "on_submit": "nra_integration.integration.sales_invoice_integration.sync_sales_invoice_to_digitax"
+    }
+}
 
 # Scheduled Tasks
 # ---------------
