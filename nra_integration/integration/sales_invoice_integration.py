@@ -68,8 +68,19 @@ def sync_sales_invoice_to_digitax(doc, method=None):
     }
 
     invoice_type_code = ""
+    invoice_kind = ""
     if doc.get("invoice_types"):
-        invoice_type_code = frappe.db.get_value("Invoice Type", doc.invoice_types, "code") or ""
+        invoice_type = frappe.db.get_value("Invoice Type", doc.invoice_types, ["code", "invoice_category"], as_dict=True)
+        if invoice_type:
+            invoice_type_code = invoice_type.code or ""
+            invoice_kind = invoice_type.invoice_category or ""
+
+    if not invoice_kind:
+        frappe.throw(f"Invoice Category (B2B/B2C/B2G) is not set on Invoice Type {doc.invoice_types or ''} for Sales Invoice {doc.name}")
+
+    party_id = frappe.db.get_value("Customer", doc.customer, "digitax_customer_id")
+    if invoice_kind == "B2B" and not party_id:
+        frappe.throw(f"Customer {doc.customer} has not been synced to Digitax yet (missing Digitax Customer ID). Sync the customer before syncing this invoice.")
 
     items_payload = []
 
@@ -121,10 +132,12 @@ def sync_sales_invoice_to_digitax(doc, method=None):
 
     payload = {
         "invoice_date": str(doc.posting_date) if doc.posting_date else "",
-        "issue_date": str(doc.due_date) if doc.due_date else "",
+        "issue_date": str(doc.posting_date) if doc.posting_date else "",
         "invoice_type_code": invoice_type_code,
+        "invoice_kind": invoice_kind,
         "document_currency_code": doc.currency,
         "trader_invoice_number": doc.po_no or "",
+        "party_id": party_id,
         "items": items_payload
     }
 

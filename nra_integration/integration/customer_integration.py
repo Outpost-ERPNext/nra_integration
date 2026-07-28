@@ -1,6 +1,16 @@
 import frappe
 import requests
 import json
+import pycountry
+
+
+def get_alpha3_country_code(alpha2_code):
+    """Digitax expects ISO 3166-1 alpha-3 country codes (e.g. "NGA"), but
+    Frappe's Country doctype stores alpha-2 codes (e.g. "NG")."""
+    if not alpha2_code:
+        return None
+    country = pycountry.countries.get(alpha_2=alpha2_code.upper())
+    return country.alpha_3 if country else None
 
 
 @frappe.whitelist()
@@ -152,7 +162,7 @@ def integrate_customer_to_digitax(customer_name):
             "street_name": address.address_line1,
             "city_name": address.city,
             "postal_zone": address.pincode,
-            "country_code": address.get("country_code"),
+            "country_code": get_alpha3_country_code(address.get("country_code")),
             "local_government_code": address.get("local_government_code"),
             "state_code": address.get("state_code")
         }

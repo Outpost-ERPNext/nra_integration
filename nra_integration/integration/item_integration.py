@@ -2,6 +2,16 @@ import frappe
 import requests
 import json
 
+# Digitax only accepts specific tax_category_code values (see
+# https://ng.docs.digitax.tech/reference/get_resources-tax-categories). Item Tax
+# Template titles are free text and don't match those codes, so templates must be
+# mapped explicitly here rather than sent verbatim.
+ITEM_TAX_TEMPLATE_TO_DIGITAX_CATEGORY = {
+    "Vat @7.5% - S": "STANDARD_VAT",
+    "Nigeria Tax - S": "STANDARD_VAT",
+}
+
+
 def sync_item_to_digitax(doc, method=None):
 
     settings = frappe.get_single("NRA Settings")
@@ -17,11 +27,9 @@ def sync_item_to_digitax(doc, method=None):
     tax_category_code = "STANDARD_VAT" # Default/Fallback
     if doc.taxes:
         for tax in doc.taxes:
-            if tax.item_tax_template:
-                template_title = frappe.db.get_value("Item Tax Template", tax.item_tax_template, "title")
-                if template_title:
-                    tax_category_code = template_title
-                    break
+            if tax.item_tax_template and tax.item_tax_template in ITEM_TAX_TEMPLATE_TO_DIGITAX_CATEGORY:
+                tax_category_code = ITEM_TAX_TEMPLATE_TO_DIGITAX_CATEGORY[tax.item_tax_template]
+                break
 
     url = "https://api.digitax.tech/ng/v1/items"
     
@@ -130,13 +138,3 @@ def manual_sync_item_to_digitax(item_code):
             return {"status": "success", "digitax_id": digitax_id}
             
     return {"status": "failed", "message": "Sync failed or database requires migration. Check Digi Tax Item Log List for details."}
-
-def get_item_tax_category(item_doc):
-    """
-    Helper to get tax category from item tax template title.
-    """
-    if item_doc.taxes:
-        for tax in item_doc.taxes:
-            if tax.item_tax_template:
-                return frappe.db.get_value("Item Tax Template", tax.item_tax_template, "title")
-    return "STANDARD_VAT"
