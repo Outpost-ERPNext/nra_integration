@@ -8,14 +8,17 @@
  "engine": "InnoDB",
  "field_order": [
   "value",
-  "code",
-  "invoice_category"
+  "code"
  ],
  "fields": [
   {
    "fieldname": "value",
    "fieldtype": "Data",
+   "in_filter": 1,
+   "in_global_search": 1,
    "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
    "label": "Value",
    "reqd": 1,
    "unique": 1
@@ -23,22 +26,19 @@
   {
    "fieldname": "code",
    "fieldtype": "Data",
+   "in_filter": 1,
+   "in_global_search": 1,
    "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
    "label": "Code",
-   "reqd": 1
-  },
-  {
-   "fieldname": "invoice_category",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Invoice Category",
    "reqd": 1
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-03-17 06:21:03.365728",
+ "modified": "2026-07-31 20:35:59.562911",
  "modified_by": "Administrator",
  "module": "Digi Tax",
  "name": "Invoice Type",
@@ -61,7 +61,10 @@
  ],
  "row_format": "Dynamic",
  "rows_threshold_for_grid_search": 20,
+ "search_fields": "code",
+ "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": []
+ "states": [],
+ "title_field": "code"
 }

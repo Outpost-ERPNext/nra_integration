@@ -10,7 +10,10 @@ def create_custom_fields():
                 "label": "Invoice Type",
                 "insert_after": "update_stock",
                 "options": "Invoice Type",
-                "reqd": 1
+                "reqd": 0,
+                "in_standard_filter": 1,
+                "in_list_view": 1,
+                "in_global_search": 1
             },
             {
                 "fieldname": "invoice_number",
@@ -54,10 +57,15 @@ def create_custom_fields():
 
     for doctype, fields in custom_fields.items():
         for field in fields:
-            if not frappe.db.exists("Custom Field", {"dt": doctype, "fieldname": field["fieldname"]}):
+            existing = frappe.db.exists("Custom Field", {"dt": doctype, "fieldname": field["fieldname"]})
+            if not existing:
                 create_custom_field(doctype, field)
-                frappe.db.commit()
-                frappe.clear_cache(doctype=doctype)
+            else:
+                custom_field = frappe.get_doc("Custom Field", existing)
+                custom_field.update(field)
+                custom_field.save()
+            frappe.db.commit()
+            frappe.clear_cache(doctype=doctype)
 
 def delete_custom_fields():
     custom_fields_to_delete = {
