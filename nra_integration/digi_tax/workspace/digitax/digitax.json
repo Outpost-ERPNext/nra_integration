@@ -1,0 +1,59 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"nb0nedERgy\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Digitax</span>\",\"col\":12}},{\"id\":\"M2bp27rdZl\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Item Log List (Success)\",\"col\":3}},{\"id\":\"hwENkaIsPt\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Item Log List (Failed)\",\"col\":3}}]",
+ "creation": "2026-08-10 20:06:59.574784",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "accounting",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Digitax",
+ "links": [],
+ "modified": "2026-08-10 20:11:47.085344",
+ "modified_by": "Administrator",
+ "module": "Digi Tax",
+ "name": "Digitax",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts User"
+  },
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Item Manager"
+  }
+ ],
+ "sequence_id": 41.0,
+ "shortcuts": [
+  {
+   "color": "Green",
+   "doc_view": "List",
+   "label": "Item Log List (Success)",
+   "link_to": "Digi Tax Item Log List",
+   "stats_filter": "[[\"Digi Tax Item Log List\",\"status\",\"=\",\"Success\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Red",
+   "doc_view": "List",
+   "label": "Item Log List (Failed)",
+   "link_to": "Digi Tax Item Log List",
+   "stats_filter": "[[\"Digi Tax Item Log List\",\"status\",\"=\",\"Failed\",false]]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Digitax"
+}

@@ -14,6 +14,12 @@ ITEM_TAX_TEMPLATE_TO_DIGITAX_CATEGORY = {
 
 def sync_item_to_digitax(doc, method=None):
 
+    if doc.get("digitax_item_id"):
+        # Already synced — on_update fires on every save of the Item, so without
+        # this guard, re-saving an already-synced item (e.g. editing an unrelated
+        # field) creates a duplicate item on Digitax and a duplicate log entry.
+        return
+
     settings = frappe.get_single("NRA Settings")
     if not settings.enable_digitax_integration:
         return
@@ -66,43 +72,37 @@ def sync_item_to_digitax(doc, method=None):
         if response.status_code in [200, 201]:
             digitax_id = response_data.get("id") or response_data.get("item_id")
             if digitax_id:
-                # Update digitax_item_id (this field existed before)
-                frappe.db.set_value("Item", doc.name, "digitax_item_id", digitax_id, update_modified=False)
-                
-                # Try updating sync status (new field)
-                try:
-                    frappe.db.set_value("Item", doc.name, "digitax_sync_status", "Success", update_modified=False)
-                except Exception:
-                    pass
-                
+                # db_set (not frappe.db.set_value) so the in-memory doc reflects the
+                # change too — on_update returns this same doc object back to the
+                # client, and a plain db.set_value only updates the DB row, leaving
+                # the form showing stale "Pending" status until a manual reload.
+                doc.db_set("digitax_item_id", digitax_id, update_modified=False)
+                doc.db_set("digitax_sync_status", "Success", update_modified=False)
+
                 log_entry.status = "Success"
                 log_entry.digitax_item_id = digitax_id
             else:
                 log_entry.status = "Failed"
+                doc.db_set("digitax_sync_status", "Failed", update_modified=False)
         else:
-            try:
-                frappe.db.set_value("Item", doc.name, "digitax_sync_status", "Failed", update_modified=False)
-            except Exception:
-                pass
-            
+            doc.db_set("digitax_sync_status", "Failed", update_modified=False)
+
             frappe.log_error(
                 message=f"Digitax API Error: {response.status_code} - {response.text}\nPayload: {json.dumps(payload, indent=2)}",
                 title="Digitax Integration Sync Failure"
             )
-            
+
         try:
             log_entry.insert(ignore_permissions=True)
         except Exception:
-            pass # Even logging might fail if Doctype is missing/corrupt
-            
-        frappe.db.commit()
+            frappe.log_error(
+                message=frappe.get_traceback(),
+                title="Digitax Integration: Failed to write Digi Tax Item Log List"
+            )
 
-    except Exception as e:
-        try:
-            frappe.db.set_value("Item", doc.name, "digitax_sync_status", "Failed", update_modified=False)
-        except Exception:
-            pass
-        
+    except Exception:
+        doc.db_set("digitax_sync_status", "Failed", update_modified=False)
+
         frappe.log_error(
             message=frappe.get_traceback(),
             title="Digitax Integration Exception"
