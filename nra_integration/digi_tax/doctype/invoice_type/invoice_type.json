@@ -8,7 +8,8 @@
  "engine": "InnoDB",
  "field_order": [
   "value",
-  "code"
+  "code",
+  "invoice_category"
  ],
  "fields": [
   {
@@ -33,12 +34,21 @@
    "in_standard_filter": 1,
    "label": "Code",
    "reqd": 1
+  },
+  {
+   "fieldname": "invoice_category",
+   "fieldtype": "Select",
+   "in_filter": 1,
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Invoice Category",
+   "options": "B2B\nB2C\nB2G"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-07-31 20:35:59.562911",
+ "modified": "2026-08-11 20:00:00.000000",
  "modified_by": "Administrator",
  "module": "Digi Tax",
  "name": "Invoice Type",
