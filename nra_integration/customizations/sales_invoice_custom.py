@@ -13,7 +13,8 @@ def create_custom_fields():
                 "reqd": 0,
                 "in_standard_filter": 1,
                 "in_list_view": 1,
-                "in_global_search": 1
+                "in_global_search": 1,
+                "allow_on_submit": 1,
             },
             {
                 "fieldname": "invoice_number",
