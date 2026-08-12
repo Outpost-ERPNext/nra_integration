@@ -76,7 +76,7 @@ def sync_sales_invoice_to_digitax(doc, method=None):
             invoice_kind = invoice_type.invoice_category or ""
 
     if not invoice_kind:
-        frappe.throw(f"Invoice Category (B2B/B2C/B2G) is not set on Invoice Type {doc.invoice_types or ''} for Sales Invoice {doc.name}")
+        invoice_kind = "B2B"
 
     party_id = frappe.db.get_value("Customer", doc.customer, "digitax_customer_id")
     if invoice_kind == "B2B" and not party_id:
