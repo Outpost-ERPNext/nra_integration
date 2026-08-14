@@ -23,7 +23,9 @@
   {
    "fieldname": "code",
    "fieldtype": "Data",
+   "in_global_search": 1,
    "in_list_view": 1,
+   "in_preview": 1,
    "in_standard_filter": 1,
    "label": "Code",
    "reqd": 1
@@ -31,7 +33,9 @@
   {
    "fieldname": "state_code",
    "fieldtype": "Data",
+   "in_global_search": 1,
    "in_list_view": 1,
+   "in_preview": 1,
    "in_standard_filter": 1,
    "label": "State Code",
    "reqd": 1
@@ -40,7 +44,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-03-13 10:43:47.026696",
+ "modified": "2026-08-14 04:58:45.566775",
  "modified_by": "Administrator",
  "module": "Digi Tax",
  "name": "Local Government List",

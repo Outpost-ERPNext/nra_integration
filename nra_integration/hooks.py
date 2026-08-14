@@ -17,6 +17,9 @@ fixtures = [
     },
     {
         "doctype": "Local Government List"
+    },
+    {
+        "doctype":"Invoice Type"
     }
 ]
 

@@ -1,0 +1,47 @@
+[
+ {
+  "code": "381",
+  "docstatus": 0,
+  "doctype": "Invoice Type",
+  "invoice_category": "B2B",
+  "modified": "2026-07-28 19:54:40.762360",
+  "name": "381",
+  "value": "381"
+ },
+ {
+  "code": "394",
+  "docstatus": 0,
+  "doctype": "Invoice Type",
+  "invoice_category": "B2B",
+  "modified": "2026-08-11 20:07:47.739923",
+  "name": "Self-billed Invoice",
+  "value": "Self-billed Invoice"
+ },
+ {
+  "code": "397",
+  "docstatus": 0,
+  "doctype": "Invoice Type",
+  "invoice_category": "B2B",
+  "modified": "2026-08-11 20:07:46.942290",
+  "name": "Final Settlement",
+  "value": "Final Settlement"
+ },
+ {
+  "code": "399",
+  "docstatus": 0,
+  "doctype": "Invoice Type",
+  "invoice_category": "B2B",
+  "modified": "2026-08-11 20:07:44.759446",
+  "name": "Bill Of Landing",
+  "value": "Bill Of Landing"
+ },
+ {
+  "code": "406",
+  "docstatus": 0,
+  "doctype": "Invoice Type",
+  "invoice_category": "B2B",
+  "modified": "2026-08-11 20:07:46.118166",
+  "name": "Customs Declaration",
+  "value": "Customs Declaration"
+ }
+]
