@@ -3,6 +3,39 @@ import requests
 import json
 from nra_integration.integration.sales_invoice_integration import generate_qr_base64
 
+MAX_INVOICE_LIST_PAGES = 10  # bound the scan since GET /invoices has no filter-by-id
+
+
+def get_digitax_invoice(invoice_id, headers):
+    """
+    Find the Digitax record for an invoice.
+
+    GET /invoices has no filter-by-id, only cursor pagination (before/after/page_size),
+    so we page through it looking for a matching "id". Bounded to avoid scanning
+    an unbounded invoice history.
+    """
+    cursor_after = None
+    for _ in range(MAX_INVOICE_LIST_PAGES):
+        params = {"page_size": 20}
+        if cursor_after:
+            params["after"] = cursor_after
+
+        resp = requests.get("https://api.digitax.tech/ng/v1/invoices", headers=headers, params=params, timeout=20)
+        if resp.status_code != 200:
+            return None
+
+        body = resp.json() or {}
+        for row in body.get("data", []):
+            if row.get("id") == invoice_id:
+                return row
+
+        cursor_after = (body.get("cursor") or {}).get("next")
+        if not cursor_after:
+            break
+
+    return None
+
+
 @frappe.whitelist()
 def sync_credit_note_to_digitax(doc, method=None):
     """
@@ -62,7 +95,7 @@ def sync_credit_note_to_digitax(doc, method=None):
         items_payload.append({
             "item_id": digitax_item_id,
             "quantity": abs(item.qty), # Credit notes use positive quantities in Digitax
-            "unit_price": round(unit_price, 4),
+            "unit_price": round(unit_price, 2),
             "tax_rate": round(tax_rate, 4),
             "item_description": item.description or item.item_name
         })
@@ -74,6 +107,17 @@ def sync_credit_note_to_digitax(doc, method=None):
     
     if not original_digitax_id:
         frappe.throw(f"Original Digitax Invoice ID not found for return against {doc.return_against}. Ensure the original invoice was synced.")
+
+    # Digitax only accepts credit notes against invoices that have finished signing
+    # (indicated by a non-null "signed_at" on the invoice). Check upfront so we fail
+    # with a clear message instead of a raw 412 from the credit-notes endpoint.
+    invoice_record = get_digitax_invoice(original_digitax_id, headers)
+    if invoice_record is not None and not invoice_record.get("signed_at"):
+        frappe.throw(
+            f"Cannot sync credit note: original invoice {doc.return_against} (Digitax ID {original_digitax_id}) "
+            f"has not been signed yet on Digitax (signed_at is not set). "
+            f"Wait for signing to complete on Digitax and retry."
+        )
 
     payload = {
         "return_date": str(doc.posting_date) if doc.posting_date else "",
