@@ -174,6 +174,17 @@ def sync_sales_invoice_to_digitax(doc, method=None):
             log_entry.insert(ignore_permissions=True)
             frappe.db.commit()
 
+            # Attach the QR code so invoices synced via the on_submit hook get it too, not just
+            # ones synced through manual_sync_invoice_to_digitax.
+            try:
+                if not qr_code:
+                    from nra_integration.customizations.sales_invoice_qr import fetch_digitax_invoice_details
+                    fetch_digitax_invoice_details(doc.name)
+                if frappe.db.get_value("Sales Invoice", doc.name, "nra_qr_code"):
+                    generate_digitax_qr(doc.name)
+            except Exception:
+                frappe.log_error(frappe.get_traceback(), "Digitax QR Attach Error")
+
             return {"status": "success", "digitax_id": digitax_id or "Sync successful without ID returned"}
             
         else:
