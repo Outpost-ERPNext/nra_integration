@@ -6,3 +6,4 @@
 # Patches added in this section will be executed after doctypes are migrated
 nra_integration.patches.make_invoice_types_not_mandatory
 nra_integration.patches.make_invoice_types_allow_on_submit
+nra_integration.patches.make_hsn_code_mandatory_unless_fixed_asset

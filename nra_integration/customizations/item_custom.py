@@ -18,7 +18,7 @@ def create_custom_fields():
                 "label": "HSN Code",
                 "options":"HSN Code",
                 "insert_after":"item_group",
-                "reqd": 1,
+                "mandatory_depends_on": "eval:!doc.is_fixed_asset",
             },
             {
                 "fieldname":"is_service",
